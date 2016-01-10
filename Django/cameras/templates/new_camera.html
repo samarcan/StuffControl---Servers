@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{%block title%}
+Nueva Cámara
+{% endblock %}
+
+{%block contentmain%}
+
+<form class="ui form" action="/create_newcamera/" method="post">
+{% csrf_token%}
+	<h3 class="ui dividing header"> Nueva Cámara</h3>
+	<div class="field">
+		<label>Nombre</label>
+		<div class="field">
+			<input name="name" placeholder="Nombre" type="text">
+		</div>
+	</div>
+
+<div class="fullwidth centrado">
+	<input type='submit' class="positive ui button center" value="Crear">
+</div>
+</form>
+
+
+
+{% endblock %}

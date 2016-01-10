@@ -1,0 +1,3651 @@
+[31/Mar/2015 17:30:44] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:33:52] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:33:52] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 17:35:25] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:37:09] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:37:19] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:37:26] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:38:29] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:42:15] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:44:06] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:44:06] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 17:44:56] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:45:57] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:48:15] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:48:53] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:49:16] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:49:17] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:53:01] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:53:27] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:55:35] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:55:36] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 17:55:50] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 17:55:51] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 17:57:35] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 17:57:40] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 17:57:40] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:04:35] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:04:35] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:04:38] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:04:42] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:04:43] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:05:04] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:05:09] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:05:10] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:05:52] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:05:52] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:05:54] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:05:57] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:05:57] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:06:07] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:06:12] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:06:12] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 18:06:13] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:12:26] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:12:32] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:12:32] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:14:27] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:14:42] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 18:14:42] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 18:14:52] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 18:46:56] "GET / HTTP/1.1" 302 0
+[31/Mar/2015 18:46:56] "GET /entry?next=/ HTTP/1.1" 301 0
+[31/Mar/2015 18:46:56] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[31/Mar/2015 22:08:17] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[31/Mar/2015 23:12:05] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:12:06] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:12:10] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:12:11] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:12:12] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:12:12] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:12:32] "GET / HTTP/1.1" 302 0
+[31/Mar/2015 23:12:32] "GET /entry?next=/ HTTP/1.1" 301 0
+[31/Mar/2015 23:12:32] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[31/Mar/2015 23:12:33] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[31/Mar/2015 23:12:33] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[31/Mar/2015 23:12:33] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[31/Mar/2015 23:12:34] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[31/Mar/2015 23:12:39] "POST /entry/ HTTP/1.1" 302 0
+[31/Mar/2015 23:12:39] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:12:39] "GET /static/css/style.css HTTP/1.1" 200 1709
+[31/Mar/2015 23:12:39] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[31/Mar/2015 23:12:40] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:12:56] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:12:57] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:13:22] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:13:22] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:13:49] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:13:49] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:14:04] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:14:04] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:14:13] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:14:19] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:14:19] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:14:25] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:16:23] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:16:23] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:16:35] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:16:35] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:16:43] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:16:52] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:16:52] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:18:40] "GET / HTTP/1.1" 302 0
+[31/Mar/2015 23:18:40] "GET /entry?next=/ HTTP/1.1" 301 0
+[31/Mar/2015 23:18:40] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[31/Mar/2015 23:18:41] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[31/Mar/2015 23:18:41] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[31/Mar/2015 23:18:41] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[31/Mar/2015 23:18:42] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[31/Mar/2015 23:18:53] "POST /entry/ HTTP/1.1" 302 0
+[31/Mar/2015 23:18:54] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:18:54] "GET /static/css/style.css HTTP/1.1" 200 1709
+[31/Mar/2015 23:18:54] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[31/Mar/2015 23:18:55] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:18:58] "GET /camera/1 HTTP/1.1" 200 2516
+[31/Mar/2015 23:20:11] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:24:10] "GET /camera/1 HTTP/1.1" 200 2530
+[31/Mar/2015 23:24:11] "GET /static/css/style.css HTTP/1.1" 200 1727
+[31/Mar/2015 23:24:27] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:24:27] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:28:05] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:28:05] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:30:13] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:30:13] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:30:18] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:30:51] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:30:51] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:33:33] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:33:33] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:35:09] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:35:09] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:35:18] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:35:19] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:35:41] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:36:38] "GET / HTTP/1.1" 302 0
+[31/Mar/2015 23:36:38] "GET /entry?next=/ HTTP/1.1" 301 0
+[31/Mar/2015 23:36:38] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[31/Mar/2015 23:36:39] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[31/Mar/2015 23:36:39] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[31/Mar/2015 23:36:39] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[31/Mar/2015 23:36:40] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[31/Mar/2015 23:36:56] "POST /entry/ HTTP/1.1" 302 0
+[31/Mar/2015 23:36:56] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:36:57] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[31/Mar/2015 23:36:57] "GET /static/css/style.css HTTP/1.1" 200 1727
+[31/Mar/2015 23:36:58] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:37:29] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:42:03] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:42:03] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:42:03] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:42:22] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:42:23] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:43:38] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:43:38] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:43:46] "GET /camera/1 HTTP/1.1" 200 2541
+[31/Mar/2015 23:44:06] "GET / HTTP/1.1" 200 11071
+[31/Mar/2015 23:44:06] "GET /static/css/style.css HTTP/1.1" 304 0
+[31/Mar/2015 23:44:06] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[31/Mar/2015 23:44:09] "GET /camera/1 HTTP/1.1" 200 2541
+[01/Apr/2015 00:04:51] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:04:51] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Apr/2015 00:05:13] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:05:21] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:08:36] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:09:08] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:09:08] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Apr/2015 00:12:58] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:17:24] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:17:24] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Apr/2015 00:18:46] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:29:11] "GET /camera/1 HTTP/1.1" 200 2579
+[01/Apr/2015 00:29:11] "GET /static/css/style.css HTTP/1.1" 304 0
+[01/Apr/2015 00:37:23] "GET / HTTP/1.1" 200 11071
+[01/Apr/2015 00:37:24] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[01/Apr/2015 00:41:45] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[01/Apr/2015 01:40:35] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[01/Apr/2015 01:53:21] "GET / HTTP/1.0" 302 0
+[01/Apr/2015 05:49:26] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[01/Apr/2015 19:38:15] "GET / HTTP/1.0" 302 0
+[01/Apr/2015 19:40:02] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[01/Apr/2015 20:31:33] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[01/Apr/2015 20:44:22] "GET / HTTP/1.1" 200 11071
+[01/Apr/2015 20:44:23] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 304 0
+[01/Apr/2015 20:44:23] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 304 0
+[01/Apr/2015 20:44:23] "GET /static/css/style.css HTTP/1.1" 200 1727
+[01/Apr/2015 20:44:23] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 304 0
+[01/Apr/2015 20:44:23] "GET /static/images/nonimage.png HTTP/1.1" 304 0
+[01/Apr/2015 20:44:24] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 304 0
+[01/Apr/2015 20:44:24] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[01/Apr/2015 20:44:44] "GET / HTTP/1.1" 200 11071
+[01/Apr/2015 20:44:45] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[01/Apr/2015 20:49:41] "GET / HTTP/1.1" 200 11071
+[01/Apr/2015 20:49:42] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[01/Apr/2015 20:49:48] "GET /camera/1 HTTP/1.1" 200 2579
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 116, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.7/socket.py", line 447, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[01/Apr/2015 22:22:53] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 05:50:22] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 12:04:06] "GET /tmUnblock.cgi HTTP/1.1" 404 4246
+[02/Apr/2015 12:04:07] "GET / HTTP/1.1" 302 0
+[02/Apr/2015 12:21:11] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 12:51:51] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 14:14:17] "GET / HTTP/1.0" 302 0
+[02/Apr/2015 15:01:12] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[02/Apr/2015 16:52:03] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 18:47:31] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 20:15:45] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[02/Apr/2015 22:26:34] "GET /manager/html HTTP/1.1" 404 4244
+[03/Apr/2015 01:22:30] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[03/Apr/2015 12:55:23] "GET / HTTP/1.1" 302 0
+[03/Apr/2015 14:20:59] "POST /zxiptv/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:21:04] "POST /3/ HTTP/1.1" 404 4215
+[03/Apr/2015 14:21:11] "POST /1/ HTTP/1.1" 404 4215
+[03/Apr/2015 14:21:13] "POST /java/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:21:17] "POST /Ts/ HTTP/1.1" 404 4218
+[03/Apr/2015 14:21:20] "POST /w/ HTTP/1.1" 404 4215
+[03/Apr/2015 14:21:21] "POST /rarr/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:21:22] "POST /two/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:21:23] "POST /tianke/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:21:24] "POST /7722/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:21:26] "POST /724/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:21:30] "POST /hosts/ HTTP/1.1" 404 4227
+[03/Apr/2015 14:21:34] "POST /Adobe/ HTTP/1.1" 404 4227
+[03/Apr/2015 14:21:36] "POST /zuoshou/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:21:47] "POST /ds-consolo/ HTTP/1.1" 404 4242
+[03/Apr/2015 14:21:51] "POST /inux/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:21:53] "POST /Fuck/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:21:54] "POST /ak/ HTTP/1.1" 404 4218
+[03/Apr/2015 14:21:57] "POST /firoot/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:21:58] "POST /wht/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:21:58] "POST /love/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:00] "POST /roker/ HTTP/1.1" 404 4227
+[03/Apr/2015 14:22:02] "POST /rar/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:22:03] "POST /Aodisf/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:22:04] "POST /Coss/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:04] "POST /tao/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:22:07] "POST /sucheng/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:22:08] "POST /slapd/ HTTP/1.1" 404 4227
+[03/Apr/2015 14:22:10] "POST /Spaker/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:22:15] "POST /inuser/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:22:16] "POST /XC/ HTTP/1.1" 404 4218
+[03/Apr/2015 14:22:17] "POST /jiarui/ HTTP/1.1" 404 4230
+[03/Apr/2015 14:22:20] "POST /NTP/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:22:25] "POST /javi/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:26] "POST /A/ HTTP/1.1" 404 4215
+[03/Apr/2015 14:22:29] "POST /form/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:30] "POST /7777/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:31] "POST /8080/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:34] "POST /safe/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:35] "POST /ssh/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:22:38] "POST /synsuper/ HTTP/1.1" 404 4236
+[03/Apr/2015 14:22:40] "POST /xh/ HTTP/1.1" 404 4218
+[03/Apr/2015 14:22:41] "POST /00000xx/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:22:42] "POST /Fenddou/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:22:43] "POST /apptorv/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:22:43] "POST /QQ1767772797/ HTTP/1.1" 404 4248
+[03/Apr/2015 14:22:44] "POST /B/ HTTP/1.1" 404 4215
+[03/Apr/2015 14:22:48] "POST /Apache-web/ HTTP/1.1" 404 4242
+[03/Apr/2015 14:22:50] "POST /A-XC/ HTTP/1.1" 404 4224
+[03/Apr/2015 14:22:53] "POST /Jsp/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:23:04] "POST /whosh/ HTTP/1.1" 404 4227
+[03/Apr/2015 14:23:10] "POST /wry/ HTTP/1.1" 404 4221
+[03/Apr/2015 14:23:13] "POST /web/ligui.jsp/ HTTP/1.1" 404 4251
+[03/Apr/2015 14:23:15] "POST /3/a.jsp/ HTTP/1.1" 404 4233
+[03/Apr/2015 14:23:17] "POST /tpnet/live.jsp/ HTTP/1.1" 404 4254
+[03/Apr/2015 15:04:07] "GET /tmUnblock.cgi HTTP/1.1" 404 4246
+[03/Apr/2015 15:04:07] "GET / HTTP/1.1" 302 0
+[03/Apr/2015 18:13:19] "GET / HTTP/1.1" 302 0
+[03/Apr/2015 18:13:20] "GET /entry?next=/ HTTP/1.1" 301 0
+[03/Apr/2015 18:13:20] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[03/Apr/2015 18:55:57] "GET / HTTP/1.0" 302 0
+[03/Apr/2015 19:38:52] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[03/Apr/2015 22:16:40] "GET http://www.sogou.com/?rands=_513820894034044303673992 HTTP/1.1" 404 1684
+[03/Apr/2015 22:16:41] "GET http://www.baidu.com/?rands=_20576162624033078247215936 HTTP/1.1" 404 1686
+[03/Apr/2015 22:16:41] "GET http://www.haosou.com/?rands=_234962205969032766304540 HTTP/1.1" 404 1688
+[03/Apr/2015 22:16:43] "GET http://reg.renren.com/?rands=_83281595360616803551392 HTTP/1.1" 404 1687
+[04/Apr/2015 00:48:04] "GET /manager/html HTTP/1.1" 404 4244
+[04/Apr/2015 07:30:31] "GET / HTTP/1.1" 302 0
+[04/Apr/2015 07:30:31] "GET /entry?next=/ HTTP/1.1" 301 0
+[04/Apr/2015 07:30:32] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[04/Apr/2015 07:33:51] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4262
+[04/Apr/2015 10:17:17] "GET / HTTP/1.0" 302 0
+Validating models...
+
+0 errors found
+March 31, 2015 - 17:30:37
+Django version 1.6.1, using settings 'StuffControl.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ('88.30.92.181', 41040)
+----------------------------------------
+[10/Apr/2015 10:59:37] "GET / HTTP/1.1" 200 11071
+[10/Apr/2015 10:59:37] "GET /static/css/style.css HTTP/1.1" 200 1727
+[10/Apr/2015 10:59:37] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[10/Apr/2015 10:59:38] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[10/Apr/2015 10:59:38] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[10/Apr/2015 10:59:38] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[10/Apr/2015 10:59:38] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[10/Apr/2015 10:59:38] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[10/Apr/2015 11:00:16] "GET /camera/1 HTTP/1.1" 200 2579
+[10/Apr/2015 11:03:25] "GET / HTTP/1.1" 200 11071
+[10/Apr/2015 11:03:25] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[10/Apr/2015 11:27:47] "GET / HTTP/1.1" 200 11071
+[10/Apr/2015 11:27:47] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[10/Apr/2015 11:27:48] "POST /sensor_value/ HTTP/1.1" 500 74275
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:27:48] "POST /sensor_value/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:27:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:27:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:02] "POST /sensor_value/ HTTP/1.1" 500 74275
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:02] "POST /sensor_value/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:08] "POST /sensor_value/ HTTP/1.1" 500 74275
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:08] "POST /sensor_value/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:12] "POST /sensor_value/ HTTP/1.1" 500 74275
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:12] "POST /sensor_value/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:32] "POST /sensor_value/ HTTP/1.1" 500 74275
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 86, in run
+    self.finish_response()
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 128, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 217, in write
+    self._write(data)
+  File "/usr/lib/python2.7/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:32] "POST /sensor_value/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 126, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/usr/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/usr/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+[10/Apr/2015 11:28:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:38] "GET /thing/1 HTTP/1.1" 200 7194
+[10/Apr/2015 11:28:38] "GET /static/libraries/highcharts.js HTTP/1.1" 200 160679
+[10/Apr/2015 11:28:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:43] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:46] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:50] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:56] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:28:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:01] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:38] "GET / HTTP/1.1" 302 0
+[10/Apr/2015 11:29:38] "GET /entry?next=/ HTTP/1.1" 301 0
+[10/Apr/2015 11:29:38] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[10/Apr/2015 11:29:38] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[10/Apr/2015 11:29:38] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[10/Apr/2015 11:29:38] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[10/Apr/2015 11:29:38] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[10/Apr/2015 11:29:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:50] "POST /entry/ HTTP/1.1" 302 0
+[10/Apr/2015 11:29:50] "GET / HTTP/1.1" 200 11071
+[10/Apr/2015 11:29:51] "GET /static/css/style.css HTTP/1.1" 200 1727
+[10/Apr/2015 11:29:51] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[10/Apr/2015 11:29:51] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[10/Apr/2015 11:29:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:29:59] "GET /thing/1 HTTP/1.1" 200 7217
+[10/Apr/2015 11:29:59] "GET /static/libraries/highcharts.js HTTP/1.1" 200 160679
+[10/Apr/2015 11:30:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:02] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:05] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:07] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:09] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:30:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:38:43] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[10/Apr/2015 11:38:44] "GET / HTTP/1.1" 302 0
+[10/Apr/2015 11:46:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:46:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:47:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:48] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:51] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:57] "POST /order_controller/ HTTP/1.1" 200 15
+[10/Apr/2015 11:48:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:33] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:49:59] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:50:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:15] "GET /thing/1 HTTP/1.1" 200 7217
+[10/Apr/2015 11:51:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:51:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:20] "POST /sensor_value/ HTTP/1.1" 200 15
+Validating models...
+
+0 errors found
+April 10, 2015 - 10:59:22
+Django version 1.6.1, using settings 'StuffControl.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Temperatura
+43
+----------------------------------------
+Exception happened during processing of request from ('158.49.95.167', 49156)
+----------------------------------------
+Temperatura
+40
+----------------------------------------
+Exception happened during processing of request from ('158.49.95.167', 49155)
+----------------------------------------
+Temperatura
+28
+----------------------------------------
+Exception happened during processing of request from ('158.49.95.167', 49158)
+----------------------------------------
+Temperatura
+29
+----------------------------------------
+Exception happened during processing of request from ('158.49.95.167', 49159)
+----------------------------------------
+Temperatura
+32
+Temperatura
+41
+yes
+Potenciometro
+6
+yes
+----------------------------------------
+Exception happened during processing of request from ('158.49.95.167', 49161)
+----------------------------------------
+Temperatura
+28
+yes
+Potenciometro
+6
+yes
+Temperatura
+31
+yes
+Potenciometro
+6
+yes
+yes
+yes
+Temperatura
+33
+yes
+Potenciometro
+6
+yes
+yes
+Temperatura
+29
+yes
+Potenciometro
+6
+yes
+Temperatura
+29
+yes
+Potenciometro
+6
+yes
+yes
+yes
+Temperatura
+28
+yes
+Potenciometro
+5
+yes
+Temperatura
+26
+yes
+Potenciometro
+5
+yes
+Temperatura
+24
+yes
+Potenciometro
+5
+yes
+Temperatura
+23
+yes
+Potenciometro
+5
+yes
+Temperatura
+22
+yes
+Potenciometro
+5
+yes
+Temperatura
+21
+yes
+Potenciometro
+5
+yes
+Temperatura
+20
+yes
+Potenciometro
+5
+yes
+Temperatura
+19
+yes
+Potenciometro
+4
+yes
+Temperatura
+19
+yes
+Potenciometro
+4
+yes
+Temperatura
+18
+yes
+Potenciometro
+4
+yes
+Temperatura
+18
+yes
+Potenciometro
+4
+yes
+Temperatura
+19
+yes
+Potenciometro
+4
+yes
+yes
+Temperatura
+18
+yes
+Potenciometro
+4
+yes
+yes
+yes
+yes
+Temperatura
+18
+yes
+Potenciometro
+4
+yes
+Temperatura
+18
+yes
+Potenciometro
+4
+yes
+Temperatura
+17
+yes
+Potenciometro
+4
+yes
+Temperatura
+39
+yes
+Potenciometro
+6
+yes
+Temperatura
+26
+yes
+Potenciometro
+5
+yes
+Temperatura
+26
+yes
+Potenciometro
+5
+yes
+Temperatura
+29
+yes
+Potenciometro
+6
+yes
+Temperatura
+30
+yes
+Potenciometro
+6
+yes
+Temperatura
+28
+yes
+Potenciometro
+5
+yes
+Temperatura
+26
+yes
+Potenciometro
+5
+yes
+Temperatura
+24
+yes
+Potenciometro
+5
+yes
+Temperatura
+23
+yes
+Potenciometro
+5
+yes
+Temperatura
+30
+yes
+Potenciometro
+6
+yes
+Temperatura
+32
+yes
+Potenciometro
+6
+yes
+Temperatura
+36
+yes
+Potenciometro
+6
+yes
+Temperatura
+23
+yes
+Potenciometro
+5
+yes
+Temperatura
+23
+yes
+Potenciometro
+5
+yes
+Temperatura
+22
+yes
+Potenciometro
+5
+yes
+Temperatura
+23
+yes
+Potenciometro
+5
+yes
+Temperatura
+24
+yes
+yes
+Potenciometro
+5
+yes
+Temperatura
+24
+yes
+Potenciometro
+5
+yes
+yes
+Temperatura
+23
+yes
+yes
+Potenciometro
+5
+yes
+Temperatura
+20
+yes
+Potenciometro
+5
+yes
+Temperatura
+19
+yes
+Potenciometro
+4
+yes
+Temperatura
+16
+yes
+Potenciometro
+4
+yes
+Temperatura
+15
+yes
+Potenciometro
+4
+yes
+Temperatura
+14
+yes
+Potenciometro
+4
+yes
+Temperatura
+13
+yes
+Potenciometro
+4
+yes
+Temperatura
+12
+yes
+Potenciometro
+4
+yes
+Temperatura
+12
+yes
+Potenciometro
+4
+yes
+Temperatura
+11
+yes
+Potenciometro
+4
+yes
+Temperatura
+11
+yes
+Potenciometro
+3
+yes
+Temperatura
+10
+yes
+Potenciometro
+3
+yes
+Temperatura
+10
+yes
+Potenciometro
+3
+yes
+Temperatura
+10
+yes
+Potenciometro
+3
+yes
+Temperatura
+10
+yes
+Potenciometro
+3
+yes
+Temperatura
+11
+yes
+Potenciometro
+3
+yes
+Temperatura
+9
+yes
+Potenciometro
+3
+yes
+Temperatura
+9
+yes
+Potenciometro
+3
+yes
+Temperatura
+9
+yes
+Potenciometro
+3
+yes
+Temperatura
+9
+yes
+Potenciometro
+3
+yes
+Temperatura
+26
+yes
+Potenciometro
+5
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Po[10/Apr/2015 11:52:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:33] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:52:59] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:53:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:33] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:54:59] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:55:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:33] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:56:59] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:57:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:58:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 11:59:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:00:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:42] "POST /sensor_value/ HTTP/1.1" 200 15
+tenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+0
+yes
+Potenciometro
+0
+yes
+Temperatura
+[10/Apr/2015 12:01:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:01:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:48] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:02:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:03:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:04:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:05:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:06:58] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:07:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[10/Apr/2015 12:40:13] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[10/Apr/2015 13:58:38] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[10/Apr/2015 14:55:09] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[10/Apr/2015 16:26:05] "GET /jmx-console/ HTTP/1.0" 404 4374
+[10/Apr/2015 23:25:31] "GET / HTTP/1.1" 302 0
+[10/Apr/2015 23:25:31] "GET /entry?next=/ HTTP/1.1" 301 0
+[10/Apr/2015 23:25:31] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[11/Apr/2015 01:54:06] "HEAD / HTTP/1.1" 302 0
+[11/Apr/2015 01:54:07] "GET / HTTP/1.1" 302 0
+[11/Apr/2015 05:02:25] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[11/Apr/2015 07:51:49] "GET / HTTP/1.0" 302 0
+[11/Apr/2015 11:39:04] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[11/Apr/2015 11:39:05] "GET / HTTP/1.1" 302 0
+[11/Apr/2015 15:45:18] "GET http://dx.doi.org/ HTTP/1.1" 404 1640
+[11/Apr/2015 17:26:27] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[11/Apr/2015 17:26:27] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 02:41:55] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[12/Apr/2015 02:41:55] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 03:38:26] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[12/Apr/2015 03:38:27] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 04:32:51] "GET /manager/html HTTP/1.1" 404 4375
+[12/Apr/2015 05:48:54] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[12/Apr/2015 05:48:55] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 06:13:26] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[12/Apr/2015 06:13:26] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 06:15:00] "HEAD / HTTP/1.0" 302 0
+[12/Apr/2015 07:31:42] "GET /manager/html HTTP/1.1" 404 4375
+[12/Apr/2015 08:32:38] "GET / HTTP/1.1" 302 0
+[12/Apr/2015 08:32:39] "GET /entry?next=/ HTTP/1.1" 301 0
+[12/Apr/2015 08:32:39] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[12/Apr/2015 10:18:03] "GET / HTTP/1.0" 302 0
+[12/Apr/2015 11:45:56] "GET /cgi-bin/index.cgi HTTP/1.0" 404 4389
+[12/Apr/2015 19:02:42] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[13/Apr/2015 03:58:36] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[13/Apr/2015 03:58:37] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 05:41:33] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[13/Apr/2015 05:41:34] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 09:30:32] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 09:30:32] "GET /robots.txt HTTP/1.1" 404 4369
+[13/Apr/2015 10:13:04] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 10:13:05] "GET /robots.txt HTTP/1.1" 404 4369
+[13/Apr/2015 12:24:33] "GET /manager/html HTTP/1.1" 404 4375
+[13/Apr/2015 13:24:41] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[13/Apr/2015 13:24:42] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 13:25:00] "GET / HTTP/1.0" 302 0
+[13/Apr/2015 14:41:06] "GET / HTTP/1.1" 302 0
+[13/Apr/2015 14:41:06] "GET /entry?next=/ HTTP/1.1" 301 0
+[13/Apr/2015 14:41:06] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[13/Apr/2015 16:39:15] "GET / HTTP/1.0" 302 0
+[13/Apr/2015 19:27:14] "GET /HNAP1 HTTP/1.0" 404 4354
+[13/Apr/2015 20:35:29] "GET / HTTP/1.0" 302 0
+[13/Apr/2015 23:03:02] "GET / HTTP/1.0" 302 0
+[13/Apr/2015 23:56:28] "GET / HTTP/1.0" 302 0
+[14/Apr/2015 03:54:31] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[14/Apr/2015 03:54:31] "GET / HTTP/1.1" 302 0
+[14/Apr/2015 05:03:50] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4393
+[14/Apr/2015 06:47:35] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[14/Apr/2015 06:47:36] "GET / HTTP/1.1" 302 0
+[14/Apr/2015 09:42:42] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[14/Apr/2015 15:49:26] "GET /tmUnblock.cgi HTTP/1.1" 404 4377
+[14/Apr/2015 15:49:27] "GET / HTTP/1.1" 302 0
+[14/Apr/2015 19:18:58] "HEAD / HTTP/1.0" 302 0
+[14/Apr/2015 21:39:21] "GET / HTTP/1.1" 302 0
+[14/Apr/2015 21:39:22] "GET /robots.txt HTTP/1.1" 404 4369
+[14/Apr/2015 21:39:38] "GET / HTTP/1.1" 302 0
+[15/Apr/2015 00:21:34] "GET /manager/html HTTP/1.1" 404 4375
+[15/Apr/2015 12:33:33] "GET / HTTP/1.1" 302 0
+[15/Apr/2015 12:33:33] "GET /entry?next=/ HTTP/1.1" 301 0
+[15/Apr/2015 12:33:33] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[15/Apr/2015 12:33:35] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[15/Apr/2015 12:33:35] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[15/Apr/2015 12:33:38] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[15/Apr/2015 12:33:38] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[15/Apr/2015 17:50:28] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[15/Apr/2015 23:45:48] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[16/Apr/2015 08:23:17] "GET / HTTP/1.1" 302 0
+[16/Apr/2015 08:23:17] "GET /robots.txt HTTP/1.1" 404 4369
+[16/Apr/2015 13:02:51] "GET / HTTP/1.0" 302 0
+[16/Apr/2015 17:36:20] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 4393
+[16/Apr/2015 19:39:10] "GET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go HTTP/1.1" 404 1739
+[16/Apr/2015 20:21:44] "GET / HTTP/1.1" 302 0
+[16/Apr/2015 20:21:44] "GET /entry?next=/ HTTP/1.1" 301 0
+[16/Apr/2015 20:21:44] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[16/Apr/2015 20:21:44] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[16/Apr/2015 20:21:45] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[16/Apr/2015 20:21:45] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[16/Apr/2015 20:21:46] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[16/Apr/2015 20:22:06] "POST /entry/ HTTP/1.1" 302 0
+[16/Apr/2015 20:22:07] "GET / HTTP/1.1" 200 11071
+[16/Apr/2015 20:22:07] "GET /static/css/style.css HTTP/1.1" 200 1727
+[16/Apr/2015 20:22:07] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[16/Apr/2015 20:22:08] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[16/Apr/2015 20:22:40] "GET /newthing HTTP/1.1" 301 0
+[16/Apr/2015 20:22:40] "GET /newthing/ HTTP/1.1" 200 3867
+[16/Apr/2015 20:22:52] "GET / HTTP/1.1" 200 11071
+[16/Apr/2015 20:22:52] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[16/Apr/2015 20:22:55] "GET /camera/1 HTTP/1.1" 200 2579
+[16/Apr/2015 20:23:26] "GET / HTTP/1.1" 200 11071
+[16/Apr/2015 20:23:27] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[16/Apr/2015 20:24:08] "GET /newcamera HTTP/1.1" 301 0
+[16/Apr/2015 20:24:08] "GET /newcamera/ HTTP/1.1" 200 1700
+Error: That port is already in use.
+System check identified some issues:
+
+WARNINGS:
+things.Controller.log_control: (fields.W340) null has no effect on ManyToManyField.
+things.Sensor.log_sensor: (fields.W340) null has no effect on ManyToManyField.
+things.Thing.controllers: (fields.W340) null has no effect on ManyToManyField.
+things.Thing.sensors: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.automaticcontrollers: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.cameras: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.things: (fields.W340) null has no effect on ManyToManyField.
+
+System check identified 7 issues (0 silenced).
+[17/Nov/2015 17:30:55] "GET / HTTP/1.1" 302 0
+[17/Nov/2015 17:30:55] "GET /entry?next=/ HTTP/1.1" 301 0
+[17/Nov/2015 17:30:55] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[17/Nov/2015 17:30:55] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[17/Nov/2015 17:30:56] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[17/Nov/2015 17:30:56] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[17/Nov/2015 17:30:56] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[17/Nov/2015 17:30:57] "GET /favicon.ico HTTP/1.1" 404 5105
+[17/Nov/2015 17:31:01] "POST /entry/ HTTP/1.1" 302 0
+[17/Nov/2015 17:31:01] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 17:31:01] "GET /static/css/style.css HTTP/1.1" 200 1727
+[17/Nov/2015 17:31:01] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[17/Nov/2015 17:31:02] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 17:45:42] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 17:45:47] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 17:46:01] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 17:46:01] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 17:46:03] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 17:46:03] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 17:46:05] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 17:49:13] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 18:16:06] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 18:21:32] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 18:21:32] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 18:21:34] "GET /camera/1 HTTP/1.1" 200 2591
+[17/Nov/2015 18:21:57] "GET /admin HTTP/1.1" 301 0
+[17/Nov/2015 18:21:57] "GET /admin/ HTTP/1.1" 200 7805
+[17/Nov/2015 18:21:57] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[17/Nov/2015 18:21:57] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[17/Nov/2015 18:21:57] "GET /static/admin/img/default-bg.gif HTTP/1.1" 200 836
+[17/Nov/2015 18:21:57] "GET /static/admin/img/icon_addlink.gif HTTP/1.1" 200 119
+[17/Nov/2015 18:21:57] "GET /static/admin/img/icon_changelink.gif HTTP/1.1" 200 119
+[17/Nov/2015 18:21:57] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[17/Nov/2015 18:21:59] "GET /admin/cameras/camera/ HTTP/1.1" 200 4421
+[17/Nov/2015 18:22:00] "GET /static/admin/css/changelists.css HTTP/1.1" 200 5254
+[17/Nov/2015 18:22:00] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[17/Nov/2015 18:22:00] "GET /static/admin/js/core.js HTTP/1.1" 200 7522
+[17/Nov/2015 18:22:00] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 4464
+[17/Nov/2015 18:22:00] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[17/Nov/2015 18:22:00] "GET /static/admin/js/actions.js HTTP/1.1" 200 4910
+[17/Nov/2015 18:22:00] "GET /static/admin/js/jquery.js HTTP/1.1" 200 284184
+[17/Nov/2015 18:22:00] "GET /static/admin/img/nav-bg-reverse.gif HTTP/1.1" 200 178
+[17/Nov/2015 18:22:00] "GET /static/admin/img/tooltag-add.png HTTP/1.1" 200 119
+[17/Nov/2015 18:22:02] "GET /admin/cameras/camera/1/ HTTP/1.1" 200 4819
+[17/Nov/2015 18:22:02] "GET /static/admin/css/forms.css HTTP/1.1" 200 6283
+[17/Nov/2015 18:22:02] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[17/Nov/2015 18:22:02] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10590
+[17/Nov/2015 18:22:02] "GET /static/admin/img/icon_deletelink.gif HTTP/1.1" 200 181
+[17/Nov/2015 18:22:05] "GET /admin/cameras/camera/ HTTP/1.1" 200 4421
+[17/Nov/2015 18:22:16] "POST /admin/cameras/camera/ HTTP/1.1" 200 2905
+[17/Nov/2015 18:22:18] "POST /admin/cameras/camera/ HTTP/1.1" 302 0
+[17/Nov/2015 18:22:18] "GET /admin/cameras/camera/ HTTP/1.1" 200 3348
+[17/Nov/2015 18:22:18] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[17/Nov/2015 18:22:18] "GET /static/admin/img/icon_success.gif HTTP/1.1" 200 341
+[17/Nov/2015 18:22:21] "GET / HTTP/1.1" 200 11580
+[17/Nov/2015 18:22:22] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 18:22:23] "GET /newcamera HTTP/1.1" 301 0
+[17/Nov/2015 18:22:23] "GET /newcamera/ HTTP/1.1" 200 1700
+[17/Nov/2015 18:22:32] "POST /create_newcamera/ HTTP/1.1" 302 0
+[17/Nov/2015 18:22:32] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 18:22:32] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 18:22:39] "GET /admin HTTP/1.1" 301 0
+[17/Nov/2015 18:22:39] "GET /admin/ HTTP/1.1" 200 8060
+[17/Nov/2015 18:22:41] "GET /admin/cameras/camera/ HTTP/1.1" 200 4421
+[17/Nov/2015 18:22:41] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[17/Nov/2015 18:22:43] "GET /admin/cameras/camera/2/ HTTP/1.1" 200 4819
+[17/Nov/2015 18:22:43] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[17/Nov/2015 18:23:04] "GET / HTTP/1.1" 200 12202
+[17/Nov/2015 18:23:04] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[17/Nov/2015 18:23:05] "GET /camera/2 HTTP/1.1" 200 2591
+[17/Nov/2015 18:23:15] "GET /thing/2 HTTP/1.1" 200 5631
+[17/Nov/2015 18:23:15] "GET /static/libraries/highcharts.js HTTP/1.1" 200 160679
+[17/Nov/2015 18:23:18] "GET /thing/1 HTTP/1.1" 200 7274
+[17/Nov/2015 18:23:35] "GET /camera/2 HTTP/1.1" 200 2591
+[17/Nov/2015 18:25:46] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 18:30:44] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 18:31:57] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 18:40:04] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 18:48:45] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 18:57:39] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:00:03] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:03:48] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:07:01] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:09:09] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:10:04] "GET /camera/2 HTTP/1.1" 200 2607
+[17/Nov/2015 19:25:39] "GET http://24x7-allrequestsallowed.com/?PHPSESSID=aab45f4f08015UTMUVW_ECFFP HTTP/1.1" 404 1752
+[18/Nov/2015 07:43:54] "CONNECT 126mx00.mxmail.netease.com:25 HTTP/1.0" 404 1693
+[18/Nov/2015 10:06:57] "GET /manager/html HTTP/1.1" 404 5099
+[18/Nov/2015 11:23:15] "GET / HTTP/1.1" 302 0
+[18/Nov/2015 12:22:43] "GET / HTTP/1.0" 302 0
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Nov/2015 22:23:36] "CONNECT 163mx03.mxmail.netease.com:25 HTTP/1.0" 404 1693
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Nov/2015 07:28:29] "GET / HTTP/1.1" 302 0
+[19/Nov/2015 10:12:57] "GET http://testp2.czar.bielawa.pl/testproxy.php HTTP/1.1" 404 1735
+[19/Nov/2015 11:48:41] "GET http://azenv.net/ HTTP/1.1" 404 1644
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Nov/2015 15:42:46] "GET http://www.ingosander.net/azenv HTTP/1.1" 404 1695
+[19/Nov/2015 15:42:46] "CONNECT www.google.com:443 HTTP/1.0" 404 1660
+[19/Nov/2015 18:53:17] "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1" 404 5147
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Nov/2015 03:16:23] "GET /manager/html HTTP/1.1" 404 5099
+[20/Nov/2015 05:45:22] "GET http://www.baidu.com/robots.txt HTTP/1.1" 404 1690
+[20/Nov/2015 05:50:34] "GET http://www.ingosander.net/azenv HTTP/1.1" 404 1695
+[20/Nov/2015 05:50:34] "CONNECT www.google.com:443 HTTP/1.0" 404 1660
+[20/Nov/2015 11:21:06] "GET /manager/html HTTP/1.1" 404 5099
+[20/Nov/2015 13:56:15] "HEAD / HTTP/1.0" 302 0
+[20/Nov/2015 18:28:45] "GET http://188.230.30.253 HTTP/1.1" 404 1661
+[20/Nov/2015 22:26:27] "GET http://www.ingosander.net/azenv HTTP/1.1" 404 1695
+[20/Nov/2015 22:26:27] "CONNECT www.google.com:443 HTTP/1.0" 404 1660
+[21/Nov/2015 00:06:44] "GET http://95.211.213.213/sex/fuck/porn/judge.php HTTP/1.1" 404 1733
+[21/Nov/2015 00:06:44] "CONNECT www.google.com:443 HTTP/1.0" 404 1660
+[21/Nov/2015 00:17:37] "GET / HTTP/1.0" 302 0
+[21/Nov/2015 04:18:50] "GET / HTTP/1.0" 302 0
+[21/Nov/2015 09:14:36] "GET / HTTP/1.1" 302 0
+[21/Nov/2015 09:14:36] "GET /robots.txt HTTP/1.1" 404 5093
+[21/Nov/2015 09:14:36] "GET /sitemap.xml HTTP/1.1" 404 5096
+[21/Nov/2015 11:30:46] "CONNECT vip163mx01.mxmail.netease.com:25 HTTP/1.0" 404 1702
+[21/Nov/2015 16:31:41] "GET / HTTP/1.1" 302 0
+[21/Nov/2015 16:31:41] "GET / HTTP/1.1" 302 0
+[21/Nov/2015 16:31:41] "GET /entry?next=/ HTTP/1.1" 301 0
+[21/Nov/2015 16:31:41] "GET /entry?next=/ HTTP/1.1" 301 0
+[21/Nov/2015 16:31:41] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[21/Nov/2015 16:31:41] "GET /favicon.ico HTTP/1.1" 404 5105
+[21/Nov/2015 16:31:41] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[21/Nov/2015 16:31:41] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[21/Nov/2015 16:31:41] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[21/Nov/2015 16:31:41] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[21/Nov/2015 16:31:41] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.svg HTTP/1.1" 200 253486
+[21/Nov/2015 16:31:42] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[21/Nov/2015 17:50:19] "HEAD / HTTP/1.1" 302 0
+[21/Nov/2015 17:50:19] "GET / HTTP/1.1" 302 0
+[21/Nov/2015 22:46:11] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 5118
+[22/Nov/2015 04:50:34] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 5118
+[22/Nov/2015 10:39:51] "GET / HTTP/1.1" 302 0
+[22/Nov/2015 13:17:09] "POST /tmUnblock.cgi HTTP/1.1" 404 5098
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[22/Nov/2015 14:08:54] "GET / HTTP/1.1" 200 12202
+[22/Nov/2015 14:08:54] "GET /static/css/style.css HTTP/1.1" 200 1727
+[22/Nov/2015 14:08:54] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[22/Nov/2015 14:08:54] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[22/Nov/2015 14:08:54] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[22/Nov/2015 14:08:54] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[22/Nov/2015 14:08:55] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[22/Nov/2015 14:08:55] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[22/Nov/2015 14:08:55] "GET /favicon.ico HTTP/1.1" 404 5105
+[22/Nov/2015 14:08:56] "GET /camera/2 HTTP/1.1" 200 2607
+[22/Nov/2015 14:10:06] "GET / HTTP/1.1" 302 0
+[22/Nov/2015 14:10:06] "GET /entry?next=/ HTTP/1.1" 301 0
+[22/Nov/2015 14:10:06] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[22/Nov/2015 14:10:07] "GET /static/libraries/jquery-2.1.3.js HTTP/1.1" 200 247387
+[22/Nov/2015 14:10:07] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[22/Nov/2015 14:10:07] "GET /static/libraries/SemanticUI-1.8.1/semantic.js HTTP/1.1" 200 577518
+[22/Nov/2015 14:10:08] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[22/Nov/2015 14:10:08] "GET /favicon.ico HTTP/1.1" 404 5105
+[22/Nov/2015 14:10:16] "POST /entry/ HTTP/1.1" 302 0
+[22/Nov/2015 14:10:16] "GET / HTTP/1.1" 200 12202
+[22/Nov/2015 14:10:16] "GET /static/css/style.css HTTP/1.1" 200 1727
+[22/Nov/2015 14:10:16] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[22/Nov/2015 14:10:17] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[22/Nov/2015 14:10:20] "GET /camera/2 HTTP/1.1" 200 2607
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[22/Nov/2015 16:43:50] "GET / HTTP/1.0" 302 0
+[22/Nov/2015 19:36:01] "GET / HTTP/1.0" 302 0
+[22/Nov/2015 20:50:41] "GET /favicon.ico HTTP/1.1" 404 5105
+[22/Nov/2015 21:36:04] "GET http://37.48.94.6/proxychecker/check.cgi?action=getinfo HTTP/1.1" 404 1729
+[23/Nov/2015 00:34:16] "GET http://testp4.pospr.waw.pl/testproxy.php HTTP/1.1" 404 1723
+[23/Nov/2015 00:44:29] "GET / HTTP/1.0" 302 0
+[23/Nov/2015 06:08:20] "GET /manager/html HTTP/1.1" 404 5099
+[23/Nov/2015 15:01:53] "GET http://www.google.com/reader/about/ HTTP/1.1" 404 1703
+[23/Nov/2015 15:49:46] "GET / HTTP/1.1" 302 0
+[23/Nov/2015 15:49:46] "GET /entry?next=/ HTTP/1.1" 301 0
+[23/Nov/2015 15:49:46] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[23/Nov/2015 21:28:05] "CONNECT 163mx02.mxmail.netease.com:25 HTTP/1.0" 404 1693
+[24/Nov/2015 00:34:12] "GET /lang/en/js/feature.js HTTP/1.0" 404 5126
+[24/Nov/2015 03:33:00] "CONNECT 163mx02.mxmail.netease.com:25 HTTP/1.0" 404 1693
+[24/Nov/2015 08:33:50] "GET http://t3.proxy-checks.com/favicon.ico HTTP/1.1" 404 1717
+[24/Nov/2015 08:33:50] "GET http://41.223.52.162/favicon.ico HTTP/1.1" 404 1693
+[24/Nov/2015 08:33:50] "POST http://t8.proxy-checks.com/favicon.ico HTTP/1.1" 404 1718
+[24/Nov/2015 08:36:15] "GET http://t4.proxy-checks.com/favicon.ico HTTP/1.1" 404 1717
+[24/Nov/2015 08:36:15] "GET http://158.255.214.106/favicon.ico HTTP/1.1" 404 1701
+[24/Nov/2015 08:36:16] "POST http://t15.proxy-checks.com/favicon.ico HTTP/1.1" 404 1722
+[24/Nov/2015 09:21:14] "GET / HTTP/1.0" 302 0
+[24/Nov/2015 11:00:17] "GET / HTTP/1.1" 302 0
+[24/Nov/2015 13:27:30] "GET /manager/html HTTP/1.1" 404 5099
+[24/Nov/2015 13:47:39] "GET /lang/en/js/feature.js HTTP/1.0" 404 5126
+[24/Nov/2015 16:32:58] "GET / HTTP/1.1" 302 0
+[24/Nov/2015 16:32:59] "GET /entry?next=/ HTTP/1.1" 301 0
+[24/Nov/2015 16:32:59] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[24/Nov/2015 16:32:59] "GET /HNAP1/ HTTP/1.1" 404 5081
+[24/Nov/2015 17:25:08] "GET / HTTP/1.1" 302 0
+[24/Nov/2015 17:25:08] "GET /entry?next=/ HTTP/1.1" 301 0
+[24/Nov/2015 17:25:08] "GET /entry/?next=/ HTTP/1.1" 200 2452
+[24/Nov/2015 17:25:08] "GET /favicon.ico HTTP/1.1" 404 5105
+[24/Nov/2015 18:26:56] "GET /status HTTP/1.1" 404 5081
+[24/Nov/2015 18:39:46] "GET /status HTTP/1.1" 404 5081
+[24/Nov/2015 23:04:05] "GET http://www.google.com/reader/about/ HTTP/1.1" 404 1703
+[25/Nov/2015 02:39:14] code 400, message Bad request syntax ('\xa7\x02\x00\x00')
+[25/Nov/2015 02:39:14] 
+[25/Nov/2015 02:39:36] code 400, message Bad request syntax ('\xa7\x02\x00\x00')
+[25/Nov/2015 02:39:36] 
+[25/Nov/2015 02:39:38] code 400, message Bad request syntax ('\xa7\x02\x00\x00')
+[25/Nov/2015 02:39:38] 
+[25/Nov/2015 03:30:57] "GET http-req HTTP/1.1" 404 1617
+[25/Nov/2015 04:04:38] "GET /tmUnblock.cgi HTTP/1.1" 404 5102
+[25/Nov/2015 04:04:39] "GET / HTTP/1.1" 302 0
+[25/Nov/2015 05:54:44] "GET / HTTP/1.0" 302 0
+[25/Nov/2015 07:43:26] "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1" 404 5147
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 593, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[25/Nov/2015 09:25:21] "GET / HTTP/1.0" 302 0
+[25/Nov/2015 09:25:27] code 400, message Bad request version ('\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[25/Nov/2015 09:25:27] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\x99\x01\x00\x00\x95\x03\x01VU~\x87\xd6\x03Y\x8bz0px?>\\W\xdc9g\xa1\x97U*\x87o"6\xc1\x11F\xd2E\x00\x00R\x00\x05\x00\x04\x00\x02\x00\x08\x00\x14\x00\x03\x00\x01\x00\x15\x00\x06\x00\x16\x00\x17\x003\x009\x00\x19\x00:\x00\x1a\x00\x18\x005\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+System check identified some issues:
+
+WARNINGS:
+things.Controller.log_control: (fields.W340) null has no effect on ManyToManyField.
+things.Sensor.log_sensor: (fields.W340) null has no effect on ManyToManyField.
+things.Thing.controllers: (fields.W340) null has no effect on ManyToManyField.
+things.Thing.sensors: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.automaticcontrollers: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.cameras: (fields.W340) null has no effect on ManyToManyField.
+userprofiles.User_Profile.things: (fields.W340) null has no effect on ManyToManyField.
+
+System check identified 7 issues (0 silenced).
+Error: That port is already in use.
+[25/Nov/2015 11:29:26] "GET / HTTP/1.1" 200 12202
+[25/Nov/2015 11:29:26] "GET /static/css/style.css HTTP/1.1" 200 1727
+[25/Nov/2015 11:29:26] "GET /static/images/nonimage.png HTTP/1.1" 200 1229
+[25/Nov/2015 11:29:28] "GET /static/libraries/SemanticUI-1.8.1/semantic.css HTTP/1.1" 200 649749
+[25/Nov/2015 11:29:29] "GET /get_automaticcontroller/ HTTP/1.1" 200 273
+[25/Nov/2015 11:29:29] "GET /static/libraries/SemanticUI-1.8.1/themes/default/assets/fonts/icons.woff HTTP/1.1" 200 83760
+[25/Nov/2015 11:29:30] "GET /favicon.ico HTTP/1.1" 404 5105
+[25/Nov/2015 11:29:39] "GET /delete_thing/1 HTTP/1.1" 302 0
+[25/Nov/2015 11:29:39] "GET / HTTP/1.1" 200 11064
+[25/Nov/2015 11:29:39] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[25/Nov/2015 11:29:41] "GET /delete_thing/2 HTTP/1.1" 302 0
+[25/Nov/2015 11:29:42] "GET / HTTP/1.1" 200 9984
+[25/Nov/2015 11:29:42] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[25/Nov/2015 11:29:44] "GET /newthing HTTP/1.1" 301 0
+[25/Nov/2015 11:29:45] "GET /newthing/ HTTP/1.1" 200 3867
+[25/Nov/2015 11:30:34] "POST /create_newthing/ HTTP/1.1" 302 0
+[25/Nov/2015 11:30:35] "GET / HTTP/1.1" 200 11077
+[25/Nov/2015 11:30:35] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[25/Nov/2015 11:30:38] "GET /newthing/ HTTP/1.1" 200 3867
+[25/Nov/2015 11:31:09] "GET /admin HTTP/1.1" 301 0
+[25/Nov/2015 11:31:09] "GET /admin/ HTTP/1.1" 200 8060
+[25/Nov/2015 11:31:09] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[25/Nov/2015 11:31:09] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[25/Nov/2015 11:31:09] "GET /static/admin/img/default-bg.gif HTTP/1.1" 200 836
+[25/Nov/2015 11:31:09] "GET /static/admin/img/icon_addlink.gif HTTP/1.1" 200 119
+[25/Nov/2015 11:31:09] "GET /static/admin/img/icon_changelink.gif HTTP/1.1" 200 119
+[25/Nov/2015 11:31:09] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[25/Nov/2015 11:31:09] "GET /static/admin/img/icon_deletelink.gif HTTP/1.1" 200 181
+[25/Nov/2015 11:31:15] "GET /admin/things/thing/ HTTP/1.1" 200 4398
+[25/Nov/2015 11:31:15] "GET /static/admin/css/changelists.css HTTP/1.1" 200 5254
+[25/Nov/2015 11:31:15] "GET /static/admin/js/core.js HTTP/1.1" 200 7522
+[25/Nov/2015 11:31:15] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[25/Nov/2015 11:31:15] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:31:15] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 4464
+[25/Nov/2015 11:31:15] "GET /static/admin/js/actions.js HTTP/1.1" 200 4910
+[25/Nov/2015 11:31:16] "GET /static/admin/js/jquery.js HTTP/1.1" 200 284184
+[25/Nov/2015 11:31:17] "GET /static/admin/img/nav-bg-reverse.gif HTTP/1.1" 200 178
+[25/Nov/2015 11:31:17] "GET /static/admin/img/tooltag-add.png HTTP/1.1" 200 119
+[25/Nov/2015 11:31:18] "GET /admin/things/thing/3/ HTTP/1.1" 200 7053
+[25/Nov/2015 11:31:18] "GET /static/admin/css/forms.css HTTP/1.1" 200 6283
+[25/Nov/2015 11:31:19] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:31:19] "GET /static/admin/js/related-widget-wrapper.js HTTP/1.1" 200 857
+[25/Nov/2015 11:31:19] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10590
+[25/Nov/2015 11:31:34] "POST /admin/things/thing/3/ HTTP/1.1" 302 0
+[25/Nov/2015 11:31:34] "GET /static/admin/img/default-bg-reverse.gif HTTP/1.1" 200 835
+[25/Nov/2015 11:31:34] "GET /admin/things/thing/ HTTP/1.1" 200 4544
+[25/Nov/2015 11:31:35] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:31:35] "GET /static/admin/img/icon_success.gif HTTP/1.1" 200 341
+[25/Nov/2015 11:31:46] "POST /create_newthing/ HTTP/1.1" 302 0
+[25/Nov/2015 11:31:46] "GET / HTTP/1.1" 200 12104
+[25/Nov/2015 11:31:47] "GET /get_automaticcontroller/ HTTP/1.1" 200 2
+[25/Nov/2015 11:31:57] "GET /admin/things/thing/ HTTP/1.1" 200 4614
+[25/Nov/2015 11:31:57] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:31:59] "GET /admin/things/thing/3/ HTTP/1.1" 200 7084
+[25/Nov/2015 11:31:59] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:32:04] "POST /admin/things/thing/3/ HTTP/1.1" 302 0
+[25/Nov/2015 11:32:04] "GET /admin/things/thing/ HTTP/1.1" 200 4761
+[25/Nov/2015 11:32:04] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:32:15] "GET /admin/things/thing/3/ HTTP/1.1" 200 7084
+[25/Nov/2015 11:32:15] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:41:46] "GET /admin/ HTTP/1.1" 200 8624
+[25/Nov/2015 11:41:49] "GET /admin/things/sensor/ HTTP/1.1" 200 4409
+[25/Nov/2015 11:41:49] "GET /admin/jsi18n/ HTTP/1.1" 200 6408
+[25/Nov/2015 11:46:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:46:29] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43638)
+[25/Nov/2015 11:46:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:46:29] "GET /thing/3 HTTP/1.1" 200 5639
+[25/Nov/2015 11:46:30] "GET /static/libraries/highcharts.js HTTP/1.1" 200 160679
+[25/Nov/2015 11:46:33] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43640)
+[25/Nov/2015 11:46:37] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 11:46:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:46:43] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43644)
+[25/Nov/2015 11:46:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:46:50] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43647)
+[25/Nov/2015 11:46:53] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43648)
+[25/Nov/2015 11:46:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:46:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43650)
+[25/Nov/2015 11:47:03] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 11:47:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:47:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 11:47:14] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:47:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:47:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 11:47:25] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43658)
+[25/Nov/2015 11:47:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:47:33] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43661)
+[25/Nov/2015 11:47:36] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 11:47:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:47:45] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43663)
+[25/Nov/2015 11:47:49] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43664)
+[25/Nov/2015 11:47:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:47:56] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43666)
+[25/Nov/2015 11:47:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43667)
+[25/Nov/2015 11:48:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:05] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 11:48:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:13] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43671)
+[25/Nov/2015 11:48:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:24] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43638)
+[25/Nov/2015 11:48:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:29] "GET /thing/3 HTTP/1.1" 200 5639
+[25/Nov/2015 11:48:29] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43640)
+[25/Nov/2015 11:48:33] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 11:48:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:39] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43644)
+[25/Nov/2015 11:48:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:46] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43647)
+[25/Nov/2015 11:48:48] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43648)
+[25/Nov/2015 11:48:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:48:55] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43650)
+[25/Nov/2015 11:48:58] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 11:49:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:06] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 11:49:09] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:49:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:16] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 11:49:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:22] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43659)
+[25/Nov/2015 11:49:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:35] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 11:49:40] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43645)
+[25/Nov/2015 11:49:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:49:46] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 11:49:47] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:50:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:50:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 11:50:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:50:18] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 11:50:22] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:50:26] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43658)
+[25/Nov/2015 11:50:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:50:34] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43666)
+[25/Nov/2015 11:50:38] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 11:50:41] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43672)
+[25/Nov/2015 11:50:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:50:49] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43680)
+[25/Nov/2015 11:51:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:09] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 11:51:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:17] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43651)
+[25/Nov/2015 11:51:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 11:51:24] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 11:51:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:32] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43665)
+[25/Nov/2015 11:51:36] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 11:51:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:42] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43675)
+[25/Nov/2015 11:51:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:51:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 11:52:03] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43646)
+[25/Nov/2015 11:52:05] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:52:09] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43653)
+[25/Nov/2015 11:52:14] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43656)
+[25/Nov/2015 11:52:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:52:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43663)
+[25/Nov/2015 11:52:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:52:28] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43671)
+[25/Nov/2015 11:52:31] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43674)
+[25/Nov/2015 11:52:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:52:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:52:52] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 11:52:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:00] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43651)
+[25/Nov/2015 11:53:05] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:53:09] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43659)
+[25/Nov/2015 11:53:13] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 11:53:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:19] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 11:53:23] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43672)
+[25/Nov/2015 11:53:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:31] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43680)
+[25/Nov/2015 11:53:34] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43684)
+[25/Nov/2015 11:53:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:41] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43692)
+[25/Nov/2015 11:53:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:47] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43700)
+[25/Nov/2015 11:53:51] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43702)
+[25/Nov/2015 11:53:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:53:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43710)
+[25/Nov/2015 11:54:00] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:54:06] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43717)
+[25/Nov/2015 11:54:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43720)
+[25/Nov/2015 11:54:14] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43724)
+[25/Nov/2015 11:54:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:54:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43731)
+[25/Nov/2015 11:54:25] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43734)
+[25/Nov/2015 11:54:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:54:33] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43742)
+[25/Nov/2015 11:54:36] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43745)
+[25/Nov/2015 11:54:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:54:44] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43753)
+[25/Nov/2015 11:54:48] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43757)
+[25/Nov/2015 11:54:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:54:54] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43764)
+[25/Nov/2015 11:54:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:02] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43771)
+[25/Nov/2015 11:55:04] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43774)
+[25/Nov/2015 11:55:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:12] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43782)
+[25/Nov/2015 11:55:16] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43785)
+[25/Nov/2015 11:55:17] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:23] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43793)
+[25/Nov/2015 11:55:28] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43797)
+[25/Nov/2015 11:55:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:36] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43805)
+[25/Nov/2015 11:55:39] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43808)
+[25/Nov/2015 11:55:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:47] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43815)
+[25/Nov/2015 11:55:51] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43819)
+[25/Nov/2015 11:55:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:55:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43156)
+[25/Nov/2015 11:56:02] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43156)
+[25/Nov/2015 11:56:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:56:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43164)
+[25/Nov/2015 11:56:13] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43167)
+[25/Nov/2015 11:56:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:56:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43176)
+[25/Nov/2015 11:56:25] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43179)
+[25/Nov/2015 11:56:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:56:32] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43185)
+[25/Nov/2015 11:56:36] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43189)
+[25/Nov/2015 11:56:37] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:56:43] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43196)
+[25/Nov/2015 11:56:47] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43199)
+[25/Nov/2015 11:56:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:56:55] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43207)
+[25/Nov/2015 11:56:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43210)
+[25/Nov/2015 11:57:03] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43214)
+[25/Nov/2015 11:57:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:57:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43221)
+[25/Nov/2015 11:57:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43224)
+[25/Nov/2015 11:57:27] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:57:31] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43644)
+[25/Nov/2015 11:57:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:57:40] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43651)
+[25/Nov/2015 11:57:44] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:57:45] "POST /sensor_value/ HTTP/1.1" 200 15
+Performing system checks...
+
+November 17, 2015 - 17:30:14
+Django version 1.8.4, using settings 'StuffControl.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ('95.211.213.213', 65357)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('95.211.213.213', 62442)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('95.211.213.213', 50021)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('188.114.161.8', 54758)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('95.211.213.213', 61431)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('95.211.213.213', 50516)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('109.123.78.190', 43925)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('109.123.78.190', 55059)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('203.67.9.74', 27309)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('104.152.52.65', 58696)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('14.215.176.20', 41117)
+----------------------------------------
+name
+Termostato
+sensor_identifier_0
+Temperatura
+control_identifier_0
+Luces
+control_range_0
+1-3
+csrfmiddlewaretoken
+GuHbEKH2dQUpjupnJLWy2XWx2RWd44xg
+sensor_range_0
+0-40
+csrfmiddlewaretoken
+GuHbEKH2dQUpjupnJLWy2XWx2RWd44xg
+control_range_0
+
+name
+Pruebas 2
+control_identifier_0
+Servo
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+-273
+Temperatura
+[25/Nov/2015 11:57:50] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 11:57:54] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43667)
+[25/Nov/2015 11:57:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:58:01] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43674)
+[25/Nov/2015 11:58:05] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43677)
+[25/Nov/2015 11:58:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:58:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:58:26] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 11:58:30] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43646)
+[25/Nov/2015 11:58:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:58:39] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 11:58:42] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 11:58:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:58:50] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43665)
+[25/Nov/2015 11:58:53] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43668)
+[25/Nov/2015 11:58:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:59:09] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:59:16] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43644)
+[25/Nov/2015 11:59:19] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43647)
+[25/Nov/2015 11:59:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:59:26] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 11:59:30] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43658)
+[25/Nov/2015 11:59:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:59:37] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43666)
+[25/Nov/2015 11:59:41] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 11:59:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 11:59:48] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43678)
+[25/Nov/2015 11:59:53] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43683)
+[25/Nov/2015 11:59:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:00] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43691)
+[25/Nov/2015 12:00:04] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43695)
+[25/Nov/2015 12:00:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:12] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43703)
+[25/Nov/2015 12:00:16] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43708)
+[25/Nov/2015 12:00:20] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43712)
+[25/Nov/2015 12:00:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:27] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43720)
+[25/Nov/2015 12:00:31] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43723)
+[25/Nov/2015 12:00:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:38] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43731)
+[25/Nov/2015 12:00:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:44] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43738)
+[25/Nov/2015 12:00:48] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43741)
+[25/Nov/2015 12:00:50] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:00:55] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43748)
+[25/Nov/2015 12:01:00] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43753)
+[25/Nov/2015 12:01:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:01:07] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43763)
+[25/Nov/2015 12:01:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43766)
+[25/Nov/2015 12:01:12] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:01:18] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43771)
+[25/Nov/2015 12:01:22] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43774)
+[25/Nov/2015 12:01:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:01:29] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43783)
+[25/Nov/2015 12:01:33] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43787)
+[25/Nov/2015 12:01:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:01:39] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43795)
+[25/Nov/2015 12:01:44] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43798)
+[25/Nov/2015 12:01:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:01:51] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43807)
+[25/Nov/2015 12:01:56] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43812)
+[25/Nov/2015 12:01:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:03] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43819)
+[25/Nov/2015 12:02:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43157)
+[25/Nov/2015 12:02:13] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43161)
+[25/Nov/2015 12:02:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:20] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43166)
+[25/Nov/2015 12:02:21] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:26] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43174)
+[25/Nov/2015 12:02:31] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43178)
+[25/Nov/2015 12:02:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:37] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43184)
+[25/Nov/2015 12:02:40] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43187)
+[25/Nov/2015 12:02:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:49] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43194)
+[25/Nov/2015 12:02:52] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43198)
+[25/Nov/2015 12:02:53] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:02:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43205)
+[25/Nov/2015 12:03:03] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43209)
+[25/Nov/2015 12:03:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:03:10] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43217)
+[25/Nov/2015 12:03:15] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43222)
+[25/Nov/2015 12:03:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:03:21] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43228)
+[25/Nov/2015 12:03:22] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:03:28] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43235)
+[25/Nov/2015 12:03:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:03:35] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43245)
+[25/Nov/2015 12:03:39] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43247)
+[25/Nov/2015 12:03:42] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43249)
+[25/Nov/2015 12:03:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:03:50] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43258)
+[25/Nov/2015 12:03:54] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43261)
+[25/Nov/2015 12:03:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:01] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43268)
+[25/Nov/2015 12:04:06] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43272)
+[25/Nov/2015 12:04:07] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:13] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43283)
+[25/Nov/2015 12:04:16] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43283)
+[25/Nov/2015 12:04:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:23] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43292)
+[25/Nov/2015 12:04:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:30] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43300)
+[25/Nov/2015 12:04:34] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43303)
+[25/Nov/2015 12:04:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:41] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43313)
+[25/Nov/2015 12:04:44] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43316)
+[25/Nov/2015 12:04:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:51] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43324)
+[25/Nov/2015 12:04:52] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:04:59] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43330)
+[25/Nov/2015 12:05:04] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43334)
+[25/Nov/2015 12:05:08] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43339)
+[25/Nov/2015 12:05:12] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43343)
+[25/Nov/2015 12:05:15] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:05:20] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43351)
+[25/Nov/2015 12:05:24] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43355)
+[25/Nov/2015 12:05:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:05:34] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43362)
+[25/Nov/2015 12:05:35] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43365)
+[25/Nov/2015 12:05:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:05:42] "POST /sensor_value/ HTTP/1.1" 500 74411
+- Broken pipe from ('31.221.188.255', 43372)
+[25/Nov/2015 12:05:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:00] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:06:02] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:08] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43651)
+[25/Nov/2015 12:06:12] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43656)
+[25/Nov/2015 12:06:16] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43660)
+[25/Nov/2015 12:06:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:23] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43667)
+[25/Nov/2015 12:06:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:32] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:37] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:06:41] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43646)
+[25/Nov/2015 12:06:43] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:06:50] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 12:07:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:13] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:07:14] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:21] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43650)
+[25/Nov/2015 12:07:25] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43653)
+[25/Nov/2015 12:07:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:31] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 12:07:31] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:37] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43658)
+[25/Nov/2015 12:07:39] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43659)
+[25/Nov/2015 12:07:41] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:46] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43660)
+[25/Nov/2015 12:07:49] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 12:07:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:07:57] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43664)
+[25/Nov/2015 12:07:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:04] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43666)
+[25/Nov/2015 12:08:07] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43667)
+[25/Nov/2015 12:08:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:15] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 12:08:17] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43670)
+[25/Nov/2015 12:08:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:24] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43672)
+[25/Nov/2015 12:08:25] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:30] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43674)
+[25/Nov/2015 12:08:35] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43675)
+[25/Nov/2015 12:08:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:41] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43677)
+[25/Nov/2015 12:08:42] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:08:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:03] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43638)
+[25/Nov/2015 12:09:03] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:06] "GET /thing/3 HTTP/1.1" 200 5639
+[25/Nov/2015 12:09:08] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43641)
+[25/Nov/2015 12:09:12] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:09:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:17] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43645)
+[25/Nov/2015 12:09:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:25] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43647)
+[25/Nov/2015 12:09:28] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43648)
+[25/Nov/2015 12:09:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:33] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43650)
+[25/Nov/2015 12:09:37] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 12:09:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:44] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43654)
+[25/Nov/2015 12:09:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:51] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 12:09:53] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43658)
+[25/Nov/2015 12:09:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:09:59] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43660)
+[25/Nov/2015 12:10:03] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 12:10:04] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:09] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43665)
+[25/Nov/2015 12:10:10] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:17] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43667)
+[25/Nov/2015 12:10:20] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43668)
+[25/Nov/2015 12:10:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:25] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43670)
+[25/Nov/2015 12:10:29] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43672)
+[25/Nov/2015 12:10:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:36] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43674)
+[25/Nov/2015 12:10:36] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:41] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43677)
+[25/Nov/2015 12:10:45] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43678)
+[25/Nov/2015 12:10:46] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:10:52] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43680)
+[25/Nov/2015 12:10:56] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43683)
+[25/Nov/2015 12:10:57] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:11:03] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43685)
+[25/Nov/2015 12:11:06] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43687)
+[25/Nov/2015 12:11:08] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:11:14] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43688)
+[25/Nov/2015 12:11:17] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43689)
+[25/Nov/2015 12:11:18] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:11:23] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43690)
+[25/Nov/2015 12:11:24] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:11:30] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43692)
+[25/Nov/2015 12:11:34] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43693)
+[25/Nov/2015 12:11:38] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43694)
+[25/Nov/2015 12:11:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:11:47] "POST /sensor_value/ HTTP/1.1" 500 74417
+- Broken pipe from ('31.221.188.255', 43696)
+[25/Nov/2015 12:20:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:20:34] "POST /sensor_value/ HTTP/1.1" 500 74172
+- Broken pipe from ('31.221.188.255', 43641)
+[25/Nov/2015 12:21:20] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:21:25] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:21:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:21:32] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43650)
+[25/Nov/2015 12:21:34] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:21:39] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 12:21:42] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43660)
+[25/Nov/2015 12:21:44] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:21:50] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43669)
+[25/Nov/2015 12:21:53] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43670)
+[25/Nov/2015 12:21:54] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:18] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43638)
+[25/Nov/2015 12:22:19] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:23] "GET /thing/3 HTTP/1.1" 200 5639
+[25/Nov/2015 12:22:25] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43642)
+[25/Nov/2015 12:22:29] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43643)
+[25/Nov/2015 12:22:29] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:34] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43645)
+[25/Nov/2015 12:22:37] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43647)
+[25/Nov/2015 12:22:39] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:44] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43649)
+[25/Nov/2015 12:22:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:22:51] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43652)
+[25/Nov/2015 12:22:54] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43653)
+[25/Nov/2015 12:22:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:01] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43655)
+[25/Nov/2015 12:23:05] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43657)
+[25/Nov/2015 12:23:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:11] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43659)
+[25/Nov/2015 12:23:14] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43659)
+[25/Nov/2015 12:23:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:21] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43661)
+[25/Nov/2015 12:23:25] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43662)
+[25/Nov/2015 12:23:26] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:32] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43664)
+[25/Nov/2015 12:23:36] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43665)
+[25/Nov/2015 12:23:38] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:43] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43668)
+[25/Nov/2015 12:23:47] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43668)
+[25/Nov/2015 12:23:49] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:23:53] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43670)
+[25/Nov/2015 12:23:55] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:00] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43672)
+[25/Nov/2015 12:24:04] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43673)
+[25/Nov/2015 12:24:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:11] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43675)
+[25/Nov/2015 12:24:13] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:18] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43677)
+[25/Nov/2015 12:24:23] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43678)
+[25/Nov/2015 12:24:26] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43679)
+[25/Nov/2015 12:24:28] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:33] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43681)
+[25/Nov/2015 12:24:35] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:40] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43683)
+[25/Nov/2015 12:24:43] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43684)
+[25/Nov/2015 12:24:45] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:24:51] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43687)
+[25/Nov/2015 12:24:54] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43688)
+[25/Nov/2015 12:24:56] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:01] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43689)
+[25/Nov/2015 12:25:05] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43690)
+[25/Nov/2015 12:25:06] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:11] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43692)
+[25/Nov/2015 12:25:15] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43693)
+[25/Nov/2015 12:25:16] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:21] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43695)
+[25/Nov/2015 12:25:23] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:28] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43697)
+[25/Nov/2015 12:25:30] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:35] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43699)
+[25/Nov/2015 12:25:40] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43700)
+[25/Nov/2015 12:25:40] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:47] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43702)
+[25/Nov/2015 12:25:50] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43703)
+[25/Nov/2015 12:25:51] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:25:56] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43705)
+[25/Nov/2015 12:25:59] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43706)
+[25/Nov/2015 12:26:01] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:26:06] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43708)
+[25/Nov/2015 12:26:10] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43709)
+[25/Nov/2015 12:26:11] "POST /sensor_value/ HTTP/1.1" 200 15
+[25/Nov/2015 12:26:17] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43711)
+[25/Nov/2015 12:26:21] "POST /sensor_value/ HTTP/1.1" 500 74399
+- Broken pipe from ('31.221.188.255', 43712)
+[25/Nov/2015 12:26:22] "POST /sensor_value/ HTTP/1.1" 200 15

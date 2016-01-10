@@ -1,0 +1,426 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'stylus',
+1 verbose cli   'nib' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.33
+4 verbose node symlink /usr/bin/node
+5 verbose cache add [ 'stylus', null ]
+6 verbose cache add name=undefined spec="stylus" args=["stylus",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: 'stylus',
+7 verbose parsed url   path: 'stylus',
+7 verbose parsed url   href: 'stylus' }
+8 verbose cache add [ 'nib', null ]
+9 verbose cache add name=undefined spec="nib" args=["nib",null]
+10 verbose parsed url { protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: 'nib',
+10 verbose parsed url   path: 'nib',
+10 verbose parsed url   href: 'nib' }
+11 silly lockFile 27c0f414-stylus stylus
+12 verbose lock stylus /home/samuel/.npm/27c0f414-stylus.lock
+13 silly lockFile ae909a05-nib nib
+14 verbose lock nib /home/samuel/.npm/ae909a05-nib.lock
+15 silly lockFile ae909a05-nib nib
+16 silly lockFile ae909a05-nib nib
+17 verbose addNamed [ 'nib', '' ]
+18 verbose addNamed [ null, '*' ]
+19 silly lockFile 30a48e40-nib nib@
+20 verbose lock nib@ /home/samuel/.npm/30a48e40-nib.lock
+21 silly lockFile 27c0f414-stylus stylus
+22 silly lockFile 27c0f414-stylus stylus
+23 verbose addNamed [ 'stylus', '' ]
+24 verbose addNamed [ null, '*' ]
+25 silly lockFile 5140332e-stylus stylus@
+26 verbose lock stylus@ /home/samuel/.npm/5140332e-stylus.lock
+27 silly addNameRange { name: 'nib', range: '*', hasData: false }
+28 silly addNameRange { name: 'stylus', range: '*', hasData: false }
+29 verbose request where is /nib
+30 verbose request registry https://registry.npmjs.org/
+31 verbose request id c66f5ae0ec43bd01
+32 verbose url raw /nib
+33 verbose url resolving [ 'https://registry.npmjs.org/', './nib' ]
+34 verbose url resolved https://registry.npmjs.org/nib
+35 verbose request where is https://registry.npmjs.org/nib
+36 info trying registry request attempt 1 at 20:39:57
+37 http GET https://registry.npmjs.org/nib
+38 verbose request where is /stylus
+39 verbose request registry https://registry.npmjs.org/
+40 verbose url raw /stylus
+41 verbose url resolving [ 'https://registry.npmjs.org/', './stylus' ]
+42 verbose url resolved https://registry.npmjs.org/stylus
+43 verbose request where is https://registry.npmjs.org/stylus
+44 info trying registry request attempt 1 at 20:39:57
+45 http GET https://registry.npmjs.org/stylus
+46 http 200 https://registry.npmjs.org/nib
+47 silly registry.get cb [ 200,
+47 silly registry.get   { date: 'Tue, 17 Feb 2015 19:39:58 GMT',
+47 silly registry.get     server: 'CouchDB/1.6.1 (Erlang OTP/R14B04)',
+47 silly registry.get     etag: '"3FFU6DIM3DRL91D3J4J6188Z1"',
+47 silly registry.get     'content-type': 'application/json',
+47 silly registry.get     'cache-control': 'max-age=60',
+47 silly registry.get     'content-length': '26508',
+47 silly registry.get     'accept-ranges': 'bytes',
+47 silly registry.get     via: '1.1 varnish',
+47 silly registry.get     age: '0',
+47 silly registry.get     'x-served-by': 'cache-lcy1127-LCY',
+47 silly registry.get     'x-cache': 'HIT',
+47 silly registry.get     'x-cache-hits': '1',
+47 silly registry.get     'x-timer': 'S1424201997.840861,VS0,VE380',
+47 silly registry.get     vary: 'Accept',
+47 silly registry.get     'keep-alive': 'timeout=10, max=50',
+47 silly registry.get     connection: 'Keep-Alive' } ]
+48 silly addNameRange number 2 { name: 'nib', range: '*', hasData: true }
+49 silly addNameRange versions [ 'nib',
+49 silly addNameRange   [ '0.0.1',
+49 silly addNameRange     '0.0.2',
+49 silly addNameRange     '0.0.3',
+49 silly addNameRange     '0.0.4',
+49 silly addNameRange     '0.0.5',
+49 silly addNameRange     '0.0.6',
+49 silly addNameRange     '0.0.7',
+49 silly addNameRange     '0.0.8',
+49 silly addNameRange     '0.1.0',
+49 silly addNameRange     '0.2.0',
+49 silly addNameRange     '0.3.0',
+49 silly addNameRange     '0.3.1',
+49 silly addNameRange     '0.3.2',
+49 silly addNameRange     '0.4.0',
+49 silly addNameRange     '0.4.1',
+49 silly addNameRange     '0.5.0',
+49 silly addNameRange     '0.6.0',
+49 silly addNameRange     '0.7.0',
+49 silly addNameRange     '0.7.1',
+49 silly addNameRange     '0.8.1',
+49 silly addNameRange     '0.8.2',
+49 silly addNameRange     '0.9.0',
+49 silly addNameRange     '0.9.1',
+49 silly addNameRange     '0.9.2',
+49 silly addNameRange     '1.0.0',
+49 silly addNameRange     '1.0.1',
+49 silly addNameRange     '1.0.2',
+49 silly addNameRange     '1.0.3',
+49 silly addNameRange     '1.0.4',
+49 silly addNameRange     '1.1.0' ] ]
+50 verbose addNamed [ 'nib', '1.1.0' ]
+51 verbose addNamed [ '1.1.0', '1.1.0' ]
+52 silly lockFile 08a8722b-nib-1-1-0 nib@1.1.0
+53 verbose lock nib@1.1.0 /home/samuel/.npm/08a8722b-nib-1-1-0.lock
+54 silly lockFile fe8c51bd-stry-npmjs-org-nib-nib-1-1-0-tgz https://registry.npmjs.org/nib/-/nib-1.1.0.tgz
+55 verbose lock https://registry.npmjs.org/nib/-/nib-1.1.0.tgz /home/samuel/.npm/fe8c51bd-stry-npmjs-org-nib-nib-1-1-0-tgz.lock
+56 verbose addRemoteTarball [ 'https://registry.npmjs.org/nib/-/nib-1.1.0.tgz',
+56 verbose addRemoteTarball   '527c19662a10a2b565fe85e9b309d622aa7557d3' ]
+57 info retry fetch attempt 1 at 20:39:58
+58 verbose fetch to= /tmp/npm-11987-AtQQd9S_/registry.npmjs.org/nib/-/nib-1.1.0.tgz
+59 http GET https://registry.npmjs.org/nib/-/nib-1.1.0.tgz
+60 http 200 https://registry.npmjs.org/stylus
+61 silly registry.get cb [ 200,
+61 silly registry.get   { date: 'Tue, 17 Feb 2015 19:39:58 GMT',
+61 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+61 silly registry.get     etag: '"HTGAKEFU7L4EE9FB5WYK2UD"',
+61 silly registry.get     'content-type': 'application/json',
+61 silly registry.get     'cache-control': 'max-age=60',
+61 silly registry.get     'content-length': '178859',
+61 silly registry.get     'accept-ranges': 'bytes',
+61 silly registry.get     via: '1.1 varnish',
+61 silly registry.get     age: '0',
+61 silly registry.get     'x-served-by': 'cache-lcy1134-LCY',
+61 silly registry.get     'x-cache': 'HIT',
+61 silly registry.get     'x-cache-hits': '1',
+61 silly registry.get     'x-timer': 'S1424201997.842255,VS0,VE362',
+61 silly registry.get     vary: 'Accept',
+61 silly registry.get     'keep-alive': 'timeout=10, max=50',
+61 silly registry.get     connection: 'Keep-Alive' } ]
+62 silly addNameRange number 2 { name: 'stylus', range: '*', hasData: true }
+63 silly addNameRange versions [ 'stylus',
+63 silly addNameRange   [ '0.0.1',
+63 silly addNameRange     '0.0.2',
+63 silly addNameRange     '0.1.0',
+63 silly addNameRange     '0.2.0',
+63 silly addNameRange     '0.2.1',
+63 silly addNameRange     '0.3.0',
+63 silly addNameRange     '0.3.1',
+63 silly addNameRange     '0.4.0',
+63 silly addNameRange     '0.4.1',
+63 silly addNameRange     '0.5.0',
+63 silly addNameRange     '0.5.1',
+63 silly addNameRange     '0.5.2',
+63 silly addNameRange     '0.5.3',
+63 silly addNameRange     '0.6.0',
+63 silly addNameRange     '0.6.2',
+63 silly addNameRange     '0.6.3',
+63 silly addNameRange     '0.6.4',
+63 silly addNameRange     '0.6.5',
+63 silly addNameRange     '0.6.6',
+63 silly addNameRange     '0.6.7',
+63 silly addNameRange     '0.7.0',
+63 silly addNameRange     '0.7.1',
+63 silly addNameRange     '0.7.2',
+63 silly addNameRange     '0.7.3',
+63 silly addNameRange     '0.7.4',
+63 silly addNameRange     '0.8.0',
+63 silly addNameRange     '0.9.0',
+63 silly addNameRange     '0.9.1',
+63 silly addNameRange     '0.9.2',
+63 silly addNameRange     '0.10.0',
+63 silly addNameRange     '0.11.0',
+63 silly addNameRange     '0.11.1',
+63 silly addNameRange     '0.11.2',
+63 silly addNameRange     '0.11.3',
+63 silly addNameRange     '0.11.4',
+63 silly addNameRange     '0.11.5',
+63 silly addNameRange     '0.11.6',
+63 silly addNameRange     '0.11.7',
+63 silly addNameRange     '0.11.8',
+63 silly addNameRange     '0.11.9',
+63 silly addNameRange     '0.11.10',
+63 silly addNameRange     '0.11.11',
+63 silly addNameRange     '0.11.12',
+63 silly addNameRange     '0.12.0',
+63 silly addNameRange     '0.12.1',
+63 silly addNameRange     '0.12.2',
+63 silly addNameRange     '0.12.3',
+63 silly addNameRange     '0.12.4',
+63 silly addNameRange     '0.13.0',
+63 silly addNameRange     '0.13.1',
+63 silly addNameRange     '0.13.2',
+63 silly addNameRange     '0.13.3',
+63 silly addNameRange     '0.13.4',
+63 silly addNameRange     '0.13.5',
+63 silly addNameRange     '0.13.6',
+63 silly addNameRange     '0.13.7',
+63 silly addNameRange     '0.13.8',
+63 silly addNameRange     '0.13.9',
+63 silly addNameRange     '0.14.0',
+63 silly addNameRange     '0.15.0',
+63 silly addNameRange     '0.15.1',
+63 silly addNameRange     '0.15.2',
+63 silly addNameRange     '0.15.3',
+63 silly addNameRange     '0.15.4',
+63 silly addNameRange     '0.16.0',
+63 silly addNameRange     '0.17.0',
+63 silly addNameRange     '0.18.0',
+63 silly addNameRange     '0.19.0',
+63 silly addNameRange     '0.19.1',
+63 silly addNameRange     '0.19.2',
+63 silly addNameRange     '0.19.3',
+63 silly addNameRange     '0.19.4',
+63 silly addNameRange     '0.19.5',
+63 silly addNameRange     '0.19.6',
+63 silly addNameRange     '0.19.7',
+63 silly addNameRange     '0.19.8',
+63 silly addNameRange     '0.20.0',
+63 silly addNameRange     '0.20.1',
+63 silly addNameRange     '0.21.0',
+63 silly addNameRange     '0.21.1',
+63 silly addNameRange     '0.21.2',
+63 silly addNameRange     '0.22.0',
+63 silly addNameRange     '0.22.1',
+63 silly addNameRange     '0.22.2',
+63 silly addNameRange     '0.22.3',
+63 silly addNameRange     '0.22.4',
+63 silly addNameRange     '0.22.5',
+63 silly addNameRange     '0.22.6',
+63 silly addNameRange     '0.23.0',
+63 silly addNameRange     '0.24.0',
+63 silly addNameRange     '0.25.0',
+63 silly addNameRange     '0.26.0',
+63 silly addNameRange     '0.26.1',
+63 silly addNameRange     '0.27.0',
+63 silly addNameRange     '0.27.1',
+63 silly addNameRange     '0.27.2',
+63 silly addNameRange     '0.28.0',
+63 silly addNameRange     '0.28.1',
+63 silly addNameRange     '0.28.2',
+63 silly addNameRange     '0.29.0',
+63 silly addNameRange     '0.30.0',
+63 silly addNameRange     '0.30.1',
+63 silly addNameRange     '0.31.0',
+63 silly addNameRange     '0.32.0',
+63 silly addNameRange     '0.32.1',
+63 silly addNameRange     '0.33.0',
+63 silly addNameRange     '0.33.1',
+63 silly addNameRange     '0.34.0',
+63 silly addNameRange     '0.34.1',
+63 silly addNameRange     '0.35.0',
+63 silly addNameRange     '0.35.1',
+63 silly addNameRange     '0.36.0',
+63 silly addNameRange     '0.36.1',
+63 silly addNameRange     '0.37.0',
+63 silly addNameRange     '0.38.0',
+63 silly addNameRange     '0.39.0',
+63 silly addNameRange     '0.39.1',
+63 silly addNameRange     '0.39.2',
+63 silly addNameRange     '0.39.3',
+63 silly addNameRange     '0.39.4',
+63 silly addNameRange     '0.40.0',
+63 silly addNameRange     '0.40.1',
+63 silly addNameRange     '0.40.2',
+63 silly addNameRange     '0.40.3',
+63 silly addNameRange     '0.41.0',
+63 silly addNameRange     '0.41.1',
+63 silly addNameRange     '0.41.2',
+63 silly addNameRange     '0.41.3',
+63 silly addNameRange     '0.42.0',
+63 silly addNameRange     '0.42.1',
+63 silly addNameRange     '0.42.2',
+63 silly addNameRange     '0.42.3',
+63 silly addNameRange     '0.43.0',
+63 silly addNameRange     '0.44.0-beta',
+63 silly addNameRange     '0.43.1',
+63 silly addNameRange     '0.44.0-beta2',
+63 silly addNameRange     '0.44.0-beta3',
+63 silly addNameRange     '0.44.0',
+63 silly addNameRange     '0.45.0',
+63 silly addNameRange     '0.45.1',
+63 silly addNameRange     '0.46.0',
+63 silly addNameRange     '0.46.1',
+63 silly addNameRange     '0.46.2',
+63 silly addNameRange     '0.46.3',
+63 silly addNameRange     '0.47.0',
+63 silly addNameRange     '0.47.1',
+63 silly addNameRange     '0.47.2',
+63 silly addNameRange     '0.47.3',
+63 silly addNameRange     '0.48.0',
+63 silly addNameRange     '0.48.1',
+63 silly addNameRange     '0.49.0',
+63 silly addNameRange     '0.49.1',
+63 silly addNameRange     '0.49.2',
+63 silly addNameRange     '0.49.3',
+63 silly addNameRange     '0.50.0' ] ]
+64 verbose addNamed [ 'stylus', '0.50.0' ]
+65 verbose addNamed [ '0.50.0', '0.50.0' ]
+66 silly lockFile d62b8ad9-stylus-0-50-0 stylus@0.50.0
+67 verbose lock stylus@0.50.0 /home/samuel/.npm/d62b8ad9-stylus-0-50-0.lock
+68 silly lockFile d62b8ad9-stylus-0-50-0 stylus@0.50.0
+69 silly lockFile d62b8ad9-stylus-0-50-0 stylus@0.50.0
+70 silly lockFile 5140332e-stylus stylus@
+71 silly lockFile 5140332e-stylus stylus@
+72 http 200 https://registry.npmjs.org/nib/-/nib-1.1.0.tgz
+73 silly lockFile fe8c51bd-stry-npmjs-org-nib-nib-1-1-0-tgz https://registry.npmjs.org/nib/-/nib-1.1.0.tgz
+74 silly lockFile fe8c51bd-stry-npmjs-org-nib-nib-1-1-0-tgz https://registry.npmjs.org/nib/-/nib-1.1.0.tgz
+75 silly lockFile 08a8722b-nib-1-1-0 nib@1.1.0
+76 silly lockFile 08a8722b-nib-1-1-0 nib@1.1.0
+77 silly lockFile 30a48e40-nib nib@
+78 silly lockFile 30a48e40-nib nib@
+79 silly resolved [ { name: 'stylus',
+79 silly resolved     description: 'Robust, expressive, and feature-rich CSS superset',
+79 silly resolved     version: '0.50.0',
+79 silly resolved     author: { name: 'TJ Holowaychuk', email: 'tj@vision-media.ca' },
+79 silly resolved     keywords: [ 'css', 'parser', 'style', 'stylesheets', 'jade', 'language' ],
+79 silly resolved     repository: { type: 'git', url: 'git://github.com/LearnBoost/stylus' },
+79 silly resolved     main: './index.js',
+79 silly resolved     browserify: './lib/browserify.js',
+79 silly resolved     engines: { node: '*' },
+79 silly resolved     bin: { stylus: './bin/stylus' },
+79 silly resolved     scripts:
+79 silly resolved      { prepublish: 'npm prune',
+79 silly resolved        test: 'mocha test/ test/middleware/ --require should --bail --reporter dot',
+79 silly resolved        'test-cov': 'mocha test/ test/middleware/ --require should --bail --reporter html-cov > coverage.html' },
+79 silly resolved     dependencies:
+79 silly resolved      { 'css-parse': '1.7.x',
+79 silly resolved        mkdirp: '0.3.x',
+79 silly resolved        debug: '*',
+79 silly resolved        sax: '0.5.x',
+79 silly resolved        glob: '3.2.x',
+79 silly resolved        'source-map': '0.1.x' },
+79 silly resolved     devDependencies: { should: '2.x', mocha: '*', jscoverage: '0.3.8' },
+79 silly resolved     bugs: { url: 'https://github.com/LearnBoost/stylus/issues' },
+79 silly resolved     homepage: 'https://github.com/LearnBoost/stylus',
+79 silly resolved     directories: { doc: 'docs', example: 'examples', test: 'test' },
+79 silly resolved     license: 'MIT',
+79 silly resolved     readme: '# Stylus [![Build Status](https://travis-ci.org/LearnBoost/stylus.svg?branch=master)](https://travis-ci.org/LearnBoost/stylus)\n\n Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.\n\n## Installation\n\n```bash\n$ npm install stylus -g\n```\n\n### Example\n\n```sass\nborder-radius()\n  -webkit-border-radius: arguments\n  -moz-border-radius: arguments\n  border-radius: arguments\n\nbody a\n  font: 12px/1.4 "Lucida Grande", Arial, sans-serif\n  background: black\n  color: #ccc\n\nform input\n  padding: 5px\n  border: 1px solid\n  border-radius: 5px\n```\n\ncompiles to:\n\n```css\nbody a {\n  font: 12px/1.4 "Lucida Grande", Arial, sans-serif;\n  background: #000;\n  color: #ccc;\n}\nform input {\n  padding: 5px;\n  border: 1px solid;\n  -webkit-border-radius: 5px;\n  -moz-border-radius: 5px;\n  border-radius: 5px;\n}\n```\n\nthe following is equivalent to the indented version of Stylus source, using the CSS syntax instead:\n\n```sass\nborder-radius() {\n  -webkit-border-radius: arguments\n  -moz-border-radius: arguments\n  border-radius: arguments\n}\n\nbody a {\n  font: 12px/1.4 "Lucida Grande", Arial, sans-serif;\n  background: black;\n  color: #ccc;\n}\n\nform input {\n  padding: 5px;\n  border: 1px solid;\n  border-radius: 5px;\n}\n```\n\n### Features\n\n Stylus has _many_ features.  Detailed documentation links follow:\n\n  - [css syntax](docs/css-style.md) support\n  - [mixins](docs/mixins.md)\n  - [keyword arguments](docs/kwargs.md)\n  - [variables](docs/variables.md)\n  - [interpolation](docs/interpolation.md)\n  - arithmetic, logical, and equality [operators](docs/operators.md)\n  - [importing](docs/import.md) of other stylus sheets\n  - [introspection api](docs/introspection.md)\n  - type coercion\n  - [@extend](docs/extend.md)\n  - [conditionals](docs/conditionals.md)\n  - [iteration](docs/iteration.md)\n  - nested [selectors](docs/selectors.md)\n  - parent reference\n  - in-language [functions](docs/functions.md)\n  - [variable arguments](docs/vargs.md)\n  - built-in [functions](docs/bifs.md) (over 60)\n  - optional [image inlining](docs/functions.url.md)\n  - optional compression\n  - JavaScript [API](docs/js.md)\n  - extremely terse syntax\n  - stylus [executable](docs/executable.md)\n  - [error reporting](docs/error-reporting.md)\n  - single-line and multi-line [comments](docs/comments.md)\n  - css [literal](docs/literal.md)\n  - character [escaping](docs/escape.md)\n  - [@keyframes](docs/keyframes.md) support & expansion\n  - [@font-face](docs/font-face.md) support\n  - [@media](docs/media.md) support\n  - Connect [Middleware](docs/middleware.md)\n  - TextMate [bundle](docs/textmate.md)\n  - Coda/SubEtha Edit [Syntax mode](https://github.com/atljeremy/Stylus.mode)\n  - gedit [language-spec](docs/gedit.md)\n  - VIM [Syntax](https://github.com/wavded/vim-stylus)\n  - [Firebug extension](docs/firebug.md)\n  - heroku [web service](http://styl.heroku.com) for compiling stylus\n  - [style guide](https://github.com/lepture/ganam) parser and generator\n  - transparent vendor-specific function expansion\n\n### Community modules\n\n  - https://github.com/LearnBoost/stylus/wiki\n\n### Framework Support\n\n   - [Connect](docs/middleware.md)\n   - [Play! 2.0](https://github.com/patiencelabs/play-stylus)\n   - [Ruby On Rails](https://github.com/lucasmazza/ruby-stylus)\n   - [Meteor](http://docs.meteor.com/#stylus)\n   - [Grails](http://grails.org/plugin/stylus-asset-pipeline)\n   - [Derby](https://github.com/derbyjs/derby-stylus)\n\n### CMS Support\n\n   - [DocPad](https://github.com/bevry/docpad)\n   - [Punch](https://github.com/laktek/punch-stylus-compiler)\n\n### Screencasts\n\n  - [Stylus Intro](http://screenr.com/bNY)\n  - [CSS Syntax & Postfix Conditionals](http://screenr.com/A8v)\n\n### Authors\n\n  - [TJ Holowaychuk (visionmedia)](http://github.com/visionmedia)\n\n### More Information\n\n  - Language [comparisons](docs/compare.md)\n\n## License \n\n(The MIT License)\n\nCopyright (c) 2010 LearnBoost &lt;dev@learnboost.com&gt;\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\'Software\'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \'AS IS\', WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+79 silly resolved     readmeFilename: 'Readme.md',
+79 silly resolved     _id: 'stylus@0.50.0',
+79 silly resolved     _from: 'stylus@' },
+79 silly resolved   { name: 'nib',
+79 silly resolved     description: 'Stylus mixins and utilities',
+79 silly resolved     version: '1.1.0',
+79 silly resolved     license: 'MIT',
+79 silly resolved     repository: { type: 'git', url: 'git://github.com/visionmedia/nib.git' },
+79 silly resolved     dependencies: { stylus: '0.49.x' },
+79 silly resolved     devDependencies: { connect: '1.x', jade: '0.22.0', mocha: '*', should: '*' },
+79 silly resolved     author: { name: 'TJ Holowaychuk', email: 'tj@vision-media.ca' },
+79 silly resolved     main: 'lib/nib.js',
+79 silly resolved     engines: { node: '*' },
+79 silly resolved     scripts: { test: 'mocha', 'test-server': 'node test/server.js' },
+79 silly resolved     gitHead: '061612cf80110e53ef5a3749980e0bf4cdc124fa',
+79 silly resolved     bugs: { url: 'https://github.com/visionmedia/nib/issues' },
+79 silly resolved     homepage: 'https://github.com/visionmedia/nib',
+79 silly resolved     _id: 'nib@1.1.0',
+79 silly resolved     _shasum: '527c19662a10a2b565fe85e9b309d622aa7557d3',
+79 silly resolved     _from: 'nib@',
+79 silly resolved     _npmVersion: '1.4.28',
+79 silly resolved     _npmUser: { name: 'slang800', email: 'slang800@gmail.com' },
+79 silly resolved     maintainers: [ [Object], [Object] ],
+79 silly resolved     dist:
+79 silly resolved      { shasum: '527c19662a10a2b565fe85e9b309d622aa7557d3',
+79 silly resolved        tarball: 'http://registry.npmjs.org/nib/-/nib-1.1.0.tgz' },
+79 silly resolved     directories: {},
+79 silly resolved     _resolved: 'https://registry.npmjs.org/nib/-/nib-1.1.0.tgz' } ]
+80 info install stylus@0.50.0 into /usr/lib
+81 info install nib@1.1.0 into /usr/lib
+82 info installOne stylus@0.50.0
+83 info installOne nib@1.1.0
+84 verbose lib/node_modules/stylus unbuild
+85 verbose tar unpack /home/samuel/.npm/stylus/0.50.0/package.tgz
+86 silly lockFile b5d7bc02-tar-usr-lib-node-modules-stylus tar:///usr/lib/node_modules/stylus
+87 verbose lock tar:///usr/lib/node_modules/stylus /home/samuel/.npm/b5d7bc02-tar-usr-lib-node-modules-stylus.lock
+88 silly lockFile 5756c5ca-el-npm-stylus-0-50-0-package-tgz tar:///home/samuel/.npm/stylus/0.50.0/package.tgz
+89 verbose lock tar:///home/samuel/.npm/stylus/0.50.0/package.tgz /home/samuel/.npm/5756c5ca-el-npm-stylus-0-50-0-package-tgz.lock
+90 verbose lib/node_modules/nib unbuild
+91 silly gunzTarPerm modes [ '775', '664' ]
+92 verbose tar unpack /home/samuel/.npm/nib/1.1.0/package.tgz
+93 silly lockFile 9ab000f4-tar-usr-lib-node-modules-nib tar:///usr/lib/node_modules/nib
+94 verbose lock tar:///usr/lib/node_modules/nib /home/samuel/.npm/9ab000f4-tar-usr-lib-node-modules-nib.lock
+95 silly lockFile 38459ac0-samuel-npm-nib-1-1-0-package-tgz tar:///home/samuel/.npm/nib/1.1.0/package.tgz
+96 verbose lock tar:///home/samuel/.npm/nib/1.1.0/package.tgz /home/samuel/.npm/38459ac0-samuel-npm-nib-1-1-0-package-tgz.lock
+97 silly gunzTarPerm modes [ '775', '664' ]
+98 error Error: EACCES, mkdir '/usr/lib/node_modules/stylus'
+98 error  { [Error: EACCES, mkdir '/usr/lib/node_modules/stylus']
+98 error   errno: 3,
+98 error   code: 'EACCES',
+98 error   path: '/usr/lib/node_modules/stylus',
+98 error   fstream_type: 'Directory',
+98 error   fstream_path: '/usr/lib/node_modules/stylus',
+98 error   fstream_class: 'DirWriter',
+98 error   fstream_stack:
+98 error    [ '/usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+98 error      '/usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+98 error      'Object.oncomplete (fs.js:107:15)' ] }
+99 error Please try running this command again as root/Administrator.
+100 error System Linux 3.13.0-45-generic
+101 error command "/usr/bin/node" "/usr/bin/npm" "install" "-g" "stylus" "nib"
+102 error cwd /media/samuel/Datos/Documentos/Universidad/Cuarto/Proyecto Fin de Grado/Django/StuffControl/static
+103 error node -v v0.10.33
+104 error npm -v 1.4.28
+105 error path /usr/lib/node_modules/stylus
+106 error fstream_path /usr/lib/node_modules/stylus
+107 error fstream_type Directory
+108 error fstream_class DirWriter
+109 error code EACCES
+110 error errno 3
+111 error stack Error: EACCES, mkdir '/usr/lib/node_modules/stylus'
+112 error fstream_stack /usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+112 error fstream_stack /usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+112 error fstream_stack Object.oncomplete (fs.js:107:15)
+113 verbose exit [ 3, true ]

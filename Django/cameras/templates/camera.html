@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{%block title%}
+Inicio
+{% endblock %}
+
+
+{% block headscripts %}
+
+<script src="http://stuffcontrol.ddns.net:8000/socket.io/socket.io.js"></script>
+{% endblock %}
+
+{%block contentmain%}
+  <h1 class="ui center aligned icon header center">
+    <img src="{% static "images/nonimage.png" %}" class="ui circular image head_image">
+    {{camera.name}}<div id="{{camera.key}}_isconected" class="thing_indicator"></div>
+  </h1>
+  <br><br>
+<div class="relative">
+ <img id="stream" src="" alt="" width="640" height="480" class="centrar">
+</div>
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+{% block javascript %}
+
+
+<script>
+
+$('.ui.accordion').accordion({
+    exclusive: false
+  });
+
+  var socket = io.connect('http://stuffcontrol.ddns.net:8000');
+
+  var cameras = [];
+  cameras.push("{{camera.key}}");
+
+  var camera_connected = false;
+
+  socket.emit('joinserver','{{profile.user.username}}','user',cameras);
+
+  socket.on('isconected', function(camera,value,time){
+    if(value){
+      $("#"+camera+"_isconected").empty();
+      $("#"+camera+"_isconected").append("<i class='selected radio green icon'></i>");
+        socket.emit('joinCamera','{{camera.key}}');
+    }
+    else{
+      if(time==1){
+        setTimeout(function(){ socket.emit('really_disconected',camera); }, 1500);    
+      }
+      else{
+      $("#"+camera+"_isconected").empty();
+      $("#"+camera+"_isconected").append("<i class='radio red icon'></i>");
+      }
+    }
+  });
+
+
+  socket.on('Streaming',function(data){
+  console.log(data);
+  $("#stream").attr('src', 'data:image/jpeg;base64,' +data);
+ });
+  </script>
+
+
+{% endblock %}

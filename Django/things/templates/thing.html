@@ -1,0 +1,214 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{%block title%}
+Inicio
+{% endblock %}
+
+
+{% block headscripts %}
+
+<script src="http://stuffcontrol.ddns.net:8000/socket.io/socket.io.js"></script>
+<script src="{% static "libraries/highcharts.js"%}" type="text/javascript"></script>
+{% endblock %}
+
+{%block contentmain%}
+  <h1 class="ui center aligned icon header center">
+    <img src="{% static "images/nonimage.png" %}" class="ui circular image head_image">
+    {{thing.name}}<div id="{{thing.key}}_isconected" class="thing_indicator"></div>
+  </h1>
+
+ 
+<h2 class="ui header head2">
+  <div class="content">
+    Controles
+  </div>
+</h2>
+
+<div class="ui cards">
+{% for controller in thing.controllers.all %}
+  <div class="card centrado">
+    <div class="content">
+      <div class="header">
+      {{controller.identifier}}
+       
+      
+
+      <div class="now_controller">
+       <span id="now_{{controller.identifier}}">
+       {% if controller.log_control.all|length > 0%}
+       (Now: {{controller.get_last.value}})
+      {%endif%}
+       </span>
+      </div>
+
+      </div>
+      <div class="description">
+        <div class="ui input">
+          <input id='value_{{controller.identifier}}' placeholder="Rango: {{controller.value_range}}" type="text" onkeypress="key_pressed(event,'{{controller.identifier}}')">
+        </div>
+        <p><div class="ui button" onclick="send_order('{{thing.key}}','{{controller.identifier}}',get_value('{{controller.identifier}}'))">
+          Order
+        </div></p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+</div>
+
+<h2 class="ui header head2">
+  <div class="content">
+    Sensores
+  </div>
+</h2>
+
+  <div class="ui styled fluid accordion">
+  {% for sensor in thing.sensors.all %}
+  <div class="title">
+      <i class="dropdown icon"></i>
+      {{sensor.identifier}}
+    </div>
+    <div class="content">
+      <div id="chart_{{sensor.identifier}}" style="width:80%; height:400px;"></div>
+    </div>
+    {% endfor %}
+  </div>
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+{% block javascript %}
+
+
+<script>
+
+$('.ui.accordion').accordion({
+    exclusive: false
+  });
+
+  var socket = io.connect('http://stuffcontrol.ddns.net:8000');
+
+  var things = [];
+  things.push("{{thing.key}}");
+
+  socket.emit('joinserver','{{profile.user.username}}','user',things);
+
+  socket.on('isconected', function(thing,value,time){
+    if(value){
+      $("#"+thing+"_isconected").empty();
+      $("#"+thing+"_isconected").append("<i class='selected radio green icon'></i>");
+      console.log(thing+" conectada");
+    }
+    else{
+      if(time==1){
+        setTimeout(function(){ socket.emit('really_disconected',thing); }, 1500);    
+      }
+      else{
+      $("#"+thing+"_isconected").empty();
+      $("#"+thing+"_isconected").append("<i class='radio red icon'></i>");
+      console.log(thing+" no conectada");
+      }
+    }
+  });
+
+  socket.on('controller_order', function(identifier,value){
+    $("#now_"+identifier).empty();
+    $("#now_"+identifier).append("(Now: "+value+")");
+  });
+
+
+{%for sensor in thing.sensors.all%}
+    
+window["chart" + "{{sensor.identifier}}"]= new Highcharts.Chart({
+        chart: {
+            renderTo: 'chart_{{sensor.identifier}}',
+            defaultSeriesType: 'spline',
+            events: {
+                load: function() {
+                    // Cada vez que reciba un valor desde el socket, lo meto en la gráfica
+                    socket.on('sensor_values', function (identifier, value) {
+                      console.log("identificador: "+identifier + " value: "+value);
+                      if(identifier === '{{sensor.identifier}}'){
+                        var series = window["chart" + "{{sensor.identifier}}"].series[0];
+                        var date = new Date().getTime();
+                        date = date +3600000;
+                        series.addPoint([date, value]);
+                      }
+                    });
+                }
+            }
+        },
+        rangeSelector : {
+            selected : 100
+        },
+        title: {
+            text: ''
+        },
+        xAxis: {
+            type: 'datetime',
+            tickPixelInterval: 150,
+            maxZoom: 20 * 1000
+        },
+        yAxis: {
+            minPadding: 0.2,
+            maxPadding: 0.2,
+            title: {
+                text: '{{sensor.identifier}}',
+                margin: 80
+            }
+        },
+        series: [{
+            name: '{{sensor.identifier}}',
+            data: []
+        }]
+    });
+
+
+{% endfor %}
+
+</script>
+
+<script>
+
+  function get_value(key){
+    var val = $('#value_'+key).val();
+    $('#value_'+key).val('');
+    return val;
+  }
+ function key_pressed(e,identifier){
+
+  if (!e) e = window.event;
+    var keyCode = e.keyCode || e.which;
+    if (keyCode == '13'){
+      send_order("{{thing.key}}",identifier,get_value(identifier));
+      return false;
+    }
+
+
+ }
+  function send_order(key,identifier,value){
+    if(value !== ''){
+    $.post("/order_controller/",
+    {
+        key: key,
+        identifier: identifier,
+        value: value
+    },
+    function(data, status){
+        console.log("Data: " + data + "\nStatus: " + status);
+    });
+    }
+}
+
+
+</script>
+
+{% endblock %}

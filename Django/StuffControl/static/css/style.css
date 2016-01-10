@@ -1,0 +1,133 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+}
+img {
+  vertical-align: top;
+}
+.inline-block {
+  display: inline-block;
+}
+.fullwidth{
+  width: 100%;
+}
+.left {
+  float: left;
+}
+.centrado{
+  text-align: center;
+}
+.centrar{
+  margin: 0 auto;
+  display: block;
+}
+.pointer{
+  cursor: pointer;
+}
+.right {
+  float: right;
+}
+.boder_bottom {
+  border-bottom: 1px solid #a3a3a3;
+}
+.relative {
+  position: relative;
+}
+.absolute{
+  position: absolute;
+}
+.vertical-middle {
+  vertical-align: middle;
+}
+.nomarginpadding {
+  margin: 0;
+  padding: 0;
+}
+.fixed {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+}
+.main {
+  margin: 3em 0 0 0;
+  padding-bottom: 3em;
+  width: 100%;
+}
+.lateral_main {
+  display: none;
+}
+.contentmain {
+  background-color: #fff;
+  display: block;
+  padding: 1em;
+  margin: 0 auto;
+  width: 90%;
+}
+.content2{
+  margin: 0 auto;
+  width: 70%;
+}
+
+.paddingrigth{
+  padding-right: 3em;
+}
+.pos_delete{
+  position: relative;
+  left: 101%;
+  top: -2em;
+}
+.content_thing .delete_home{
+  float: right;
+  color: #444444;
+  font-weight: 2em;
+  padding-right: 2em;
+  visibility: hidden;
+}
+.content_thing:hover .delete_home{
+  visibility: visible;
+}
+.head_image{
+  margin: 0 auto 20px auto;
+  width: 100px;
+  height: 100px;
+}
+
+.head2{
+  padding-left: 10px;
+}
+
+.thing_indicator{
+  display: inline-block;
+  font-size: .5em;
+  margin-left: 1em;
+}
+.now_controller{
+  display: inline-block;
+  font-size: .7em;
+  color:#7574FF;
+}
+
+.automatic_row .automatic_options{
+  float: right;
+  color: #444444;
+  font-weight: 2em;
+  padding-right: 2em;
+  visibility: hidden;
+}
+
+.automatic_row:hover .automatic_options{
+  visibility: visible;
+}
+
+.button_add{
+  top:0px;
+  right: 0px;
+}

@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{%block title%}
+Nueva Thing
+{% endblock %}
+
+{%block contentmain%}
+
+<form class="ui form" action="/create_newthing/" method="post">
+{% csrf_token%}
+	<h3 class="ui dividing header"> Nueva Thing</h3>
+	<div class="field">
+		<label>Nombre</label>
+		<div class="field">
+			<input name="name" placeholder="Nombre" type="text">
+		</div>
+	</div>
+
+<h4 class="ui dividing header">
+  <div class="content">
+    Controles
+  <i class="icon green plus pointer" onclick="add_control()"></i>
+  </div>
+</h4>
+<div id="controles"></div>
+
+<h4 class="ui dividing header">
+  <div class="content">
+    Sensores
+  <i class="icon green plus pointer" onclick="add_sensor()"></i>
+  </div>
+</h4>
+<div id="sensores"></div>
+
+<div class="fullwidth centrado">
+	<input type='submit' class="positive ui button center" value="Crear">
+</div>
+</form>
+
+
+
+{% endblock %}
+
+{% block javascript %}
+
+<script>
+var controles = [];
+cont_controles = 0;
+var sensores = [];
+cont_sensores = 0;
+
+	function add_control(){
+		$("#controles").append("<div id='control_"+cont_controles+"' class='two fields paddingrigth'>"+
+		"<div class='field'>"+
+			"<label>Identificador</label>"+
+			"<div class='field'>"+
+				"<input placeholder='Identificador' name='control_identifier_"+cont_controles+"' type='text'>"+
+			"</div>"+
+		"</div>"+
+		"<div class='field'>"+
+			"<label>Rango</label>"+
+			"<div class='field'>"+
+				"<input type='text' placeholder='Rango' name='control_range_"+cont_controles+"' >"+
+				"<i class='icon red delete pos_delete pointer' onclick='remove_control("+cont_controles+")'></i>"+
+			"</div>"+
+		"</div>"+
+	"</div>");
+		controles.push(cont_controles);
+		cont_controles++;
+
+	}
+
+	function remove_control(value){
+		var index = controles.indexOf(value);
+		if (index > -1) {
+    		controles.splice(index, 1);
+		}
+		$("#control_"+value).remove();
+	}
+
+	function add_sensor(){
+		$("#sensores").append("<div id='sensor_"+cont_sensores+"' class='two fields paddingrigth'>"+
+		"<div class='field'>"+
+			"<label>Identificador</label>"+
+			"<div class='field'>"+
+				"<input placeholder='Identificador' type='text'  name='sensor_identifier_"+cont_sensores+"'>"+
+			"</div>"+
+		"</div>"+
+		"<div class='field'>"+
+			"<label>Rango</label>"+
+			"<div class='field'>"+
+				"<input type='text' placeholder='Rango' name='sensor_range_"+cont_sensores+"'>"+
+				"<i class='icon red delete pos_delete pointer' onclick='remove_sensor("+cont_sensores+")'></i>"+
+			"</div>"+
+		"</div>"+
+	"</div>");
+
+		sensores.push(cont_sensores);
+		cont_sensores++;
+	}
+
+	function remove_sensor(value){
+		var index = sensores.indexOf(value);
+		if (index > -1) {
+    		sensores.splice(index, 1);
+		}
+		$("#sensor_"+value).remove();
+	}
+
+</script>
+
+
+{% endblock %}

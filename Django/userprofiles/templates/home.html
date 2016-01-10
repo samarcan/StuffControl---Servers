@@ -1,0 +1,406 @@
+{% extends "base.html" %}
+{%block title%}
+Inicio
+{% endblock %}
+
+
+{% block headscripts %}
+<script src="http://stuffcontrol.ddns.net:8000/socket.io/socket.io.js"></script>
+{% endblock %}
+
+{%block contentmain%}
+	{% load staticfiles %}
+
+  <div id="ContentThings" class="relative">
+  <h2 class="ui header head2">
+  <div class="content">
+    Things
+  </div>
+</h2>
+  <a href="/newthing">
+  <div class="ui green button absolute button_add">
+  <i class="add circle icon"></i>
+  Añadir Thing
+</div>
+</a>
+<div class="ui divided items">
+{% for thing in profile.things.all %}
+  <div class="item content_thing">
+    <div class="ui tiny image">
+      <img src="{% static "images/nonimage.png" %}">
+    </div>
+    <div class="middle aligned content">
+      <a href="/thing/{{thing.id}}" class="header">{{thing.name}}
+      <div id="{{thing.key}}_isconected" class="right"></div></a>
+      <div class="meta">
+        <span class="cinema"><b>Controles:</b> {{thing.controllers.count}}</span><br>
+        <span class="cinema"><b>Sensores:</b>{{thing.sensors.count}}</span>
+      </div>
+      <div class="delete_home ui dropdown item">
+          <i class="ellipsis vertical icon"></i>
+          <div class="menu">
+            <a href="/delete_thing/{{thing.id}}" class="item">Eliminar</a>
+          </div>
+        </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+</div>
+
+
+<br><br><br><br>
+<div id="ContentCameras" class="relative">
+  <h2 class="ui header head2">
+  <div class="content">
+    Camaras
+  </div>
+</h2>
+  <a href="/newcamera">
+  <div class="ui green button absolute button_add">
+  <i class="add circle icon"></i>
+  Añadir Camara
+</div>
+</a>
+<div class="ui divided items">
+{% for camera in profile.cameras.all %}
+  <div class="item content_thing">
+    <div class="ui tiny image">
+      <img src="{% static "images/nonimage.png" %}">
+    </div>
+    <div class="middle aligned content">
+      <a href="/camera/{{camera.id}}" class="header">{{camera.name}}
+      <div id="{{camera.key}}_isconected" class="right"></div></a>
+
+      <div class="delete_home ui dropdown item">
+          <i class="ellipsis vertical icon"></i>
+          <div class="menu">
+          <a href="#" class="item">Editar</a>
+            <a href="/delete_camera/{{camera.id}}" class="item">Eliminar</a>
+          </div>
+        </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+</div>
+
+
+<br><br><br>
+<div id="automaticcontrollers"  class="ui styled fluid accordion">
+  <div class="title">
+      <i class="dropdown icon"></i>
+      Controles Automáticos (<span id="num_automaticcontrollers">{{profile.automaticcontrollers.count}}</span>)
+      <div class="item right">
+        <i class="icon green plus pointer" onclick="ShowModal();"></i>
+      </div>
+    </div>
+    <div class="content" id="table_automaticcontrollers">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+  <div class="ui modal">
+    <i class="close icon"></i>
+    <div class="header">
+      Nuevo Control Automático
+    </div>
+    <div class="content ui form">
+        <div class="field">
+          <label>Sensor</label>
+          <div class="three fields">
+          <div class="field">
+              <select id="thingsensor" class="ui dropdown" onchange="thingsensor_selected()">
+              <option value="">Thing</option>
+                {% for thing in profile.things.all%}
+                <option value="{{thing.id}}">{{thing.name}}</option>
+                {% endfor %}
+              </select>
+            </div>
+            <div class="field">
+              <select id="select_sensor" class="ui dropdown">
+              <option value="">Sensor</option>
+              </select>
+            </div>
+            <div class="field">
+              <input id="sensor_range" placeholder="Rango" type="text">
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <label>Controlador</label>
+          <div class="three fields">
+          <div class="field">
+              <select id="thingcontroller" class="ui dropdown" onchange="thingcontroller_selected()">
+                <option value="">Thing</option>
+                {% for thing in profile.things.all%}
+                <option value="{{thing.id}}">{{thing.name}}</option>
+                {% endfor %}
+              </select>
+            </div>
+            <div class="field">
+              <select id="select_controller" class="ui dropdown">
+                <option value="">Controlador</option>
+              </select>
+            </div>
+            <div class="field">
+              <input id="controller_value" placeholder="Valor" type="text">
+            </div>
+          </div>
+        </div>
+        <div class="field centrado">
+          <div class="ui green button" onclick="add_automaticcontroller();">Añadir</div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+{% endblock %}
+
+{% block javascript %}
+<script>
+
+window.onload = get_AutomaticControllers();
+
+
+$('.ui.accordion').accordion({
+    exclusive: false
+  });
+
+$('.ui.checkbox')
+  .checkbox()
+;
+$('.ui.modal')
+  .modal()
+;
+
+function ShowModal(){
+  $(".ui.modal").modal('show');
+}
+
+  var sensors = {};
+  {%for thing in profile.things.all%}
+    sensors["{{thing.name}}"] = {};
+    {%for sensor in thing.sensors.all%}
+      sensors["{{thing.name}}"]["{{sensor.identifier}}"] = {{sensor.id}};
+    {% endfor%}
+  {% endfor %}
+
+  var controllers = {};
+  {%for thing in profile.things.all%}
+    controllers["{{thing.name}}"] = {};
+    {%for controller in thing.controllers.all%}
+      controllers["{{thing.name}}"]["{{controller.identifier}}"] = {{controller.id}};
+    {% endfor%}
+  {% endfor %}
+
+
+  function thingsensor_selected(){
+    var thingsensor = $("#thingsensor option:selected").text();
+    $('#select_sensor').empty();
+    var options = '<option value="">Sensor</option>';
+
+    for(var sensor in sensors[thingsensor]){
+      options += '<option value="'+sensors[thingsensor][sensor]+'">'+sensor+'</option>';
+    }
+    $('#select_sensor').append(options);
+
+  }
+
+  function thingcontroller_selected(){
+        var thingcontroller = $("#thingcontroller option:selected").text();
+    $('#select_controller').empty();
+    var options = '<option value="">controller</option>';
+
+    for(var controller in controllers[thingcontroller]){
+      options += '<option value="'+controllers[thingcontroller][controller]+'">'+controller+'</option>';
+    }
+    $('#select_controller').append(options);
+  }
+
+
+    function add_automaticcontroller(){
+    $.post("/add_automaticcontroller/",
+    {
+        thingcontroller: $("#thingcontroller option:selected").val(),
+        thingsensor: $("#thingsensor option:selected").val(),
+        controller: $("#select_controller option:selected").val(),
+        sensor: $("#select_sensor option:selected").val(),
+        value: $('#controller_value').val(),
+        range: $('#sensor_range').val()
+
+    },
+    function(data, status){
+        console.log(data);
+        show_automaticcontroller(data);
+        $(".ui.modal").modal('hide');
+    });
+  }
+
+  function get_AutomaticControllers(){
+    $.get("/get_automaticcontroller/",function(data, status){
+        console.log(data);
+        show_automaticcontroller(data);
+    });
+
+  }
+
+    function change_check(value,id){
+    $.get("/change_check/"+value+"/"+id,function(data, status){
+        console.log(data);
+    });
+
+  }
+
+  function ChangingCheck(id){
+              if($('#check_'+id).checkbox('is checked')){
+            change_check('0',id);
+          }
+          else{
+            change_check('1',id);
+          }
+  }
+
+  function delete_automatic(id,select){
+  $.get("/delete_automatic/"+id,function(data, status){
+        console.log(data);
+
+        row = select.parent().parent().parent().parent()
+
+        if($("#automatic_row").length != 0){
+          row.remove();
+        }
+        else{
+          $("#table_automaticcontrollers").empty();
+        }
+
+    });
+}
+
+
+  var socket = io.connect('http://stuffcontrol.ddns.net:8000');
+
+  var things = [];
+  {% for thing in profile.things.all %}
+  things.push("{{thing.key}}");
+  {% endfor %}
+  {% for camera in profile.cameras.all %}
+  things.push("{{camera.key}}");
+  {% endfor %}
+
+  socket.emit('joinserver','{{profile.user.username}}','user',things);
+
+  socket.on('isconected', function(thing,value){
+    if(value){
+      $("#"+thing+"_isconected").empty();
+      $("#"+thing+"_isconected").append("<i class='selected radio green icon'></i>");
+      console.log(thing+" conectada");
+    }
+    else{
+      $("#"+thing+"_isconected").empty();
+      $("#"+thing+"_isconected").append("<i class='radio red icon'></i>");
+      console.log(thing+" no conectada");
+    }
+  });
+
+</script>
+
+
+
+
+<script>
+
+
+function show_automaticcontroller(data){
+
+
+  if(data.length > 0){
+    $("#table_automaticcontrollers").empty();
+
+    var table = '<table class="ui compact definition table">';
+    table +='<thead>';
+    table +='<tr>';
+    table +='<th></th>';
+    table +='<th>Thing</th>';
+    table +='<th>Sensor</th>';
+    table +='<th>Range</th>';
+    table +='<th>Thing</th>';
+    table +='<th>Controlador</th>';
+    table +='<th>Valor</th>';
+    table +='<th></th>';
+    table +='</tr>';
+    table +='</thead>';
+    table +='<tbody id = "content_tableautomatic">';
+    table+='</tbody>';
+    table+='</table>';
+
+    $("#table_automaticcontrollers").append(table);
+
+    var content = "";
+
+    for(var i in data){
+
+    content +='<tr class="automatic_row">';
+    content +='<td class="collapsing">';
+    content +='<div id="check_'+data[i]['id']+'" class="ui fitted toggle checkbox" onclick="ChangingCheck('+ data[i]['id'] +')">';
+    content +='<input type="checkbox"> <label></label>';
+    content +='</div>';
+    content +='</td>';
+    content +='<td>'+data[i]['sensorthing_name']+'</td>';
+    content +='<td>'+data[i]['sensor_name']+'</td>';
+    content +='<td>'+data[i]['range']+'</td>';
+    content +='<td>'+data[i]['controllerthing_name']+'</td>';
+    content +='<td>'+data[i]['controller_name']+'</td>';
+    content +='<td>'+data[i]['value']+'</td>';
+    content +='<td class="">'
+    content +='<div class="delete_home ui dropdown item automatic_options">';
+    content +='<i class="ellipsis vertical icon"></i>';
+    content +='<div class="menu">';
+    content +='<a href="#" class="item">Editar</a>';
+    content +='<a onclick="delete_automatic('+data[i]['id']+',$(this))" class="item">Eliminar</a>';
+    content +='</div>';
+    content +='</div>';
+    content +='</td>';
+    content +='</tr>'
+
+
+    }
+
+     $("#content_tableautomatic").append(content);
+
+     $('.ui.checkbox').checkbox();
+
+     for(i in data){
+      if(data[i]['active']){
+      $('#check_'+data[i]['id']).checkbox('check');
+      }
+
+     }
+
+  }
+
+  $('.ui.dropdown').dropdown('hide');
+  $('#num_automaticcontrollers').empty();
+  $('#num_automaticcontrollers').append(data.length);
+
+
+}
+
+
+</script>
+
+{% endblock %}
